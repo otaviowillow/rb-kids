@@ -3,25 +3,16 @@ templateKey: 'index-page'
 hero:
   - title: Enrich Minds
     subtitle: Our goal is to
-    image: '/img/Happy_Children_Playing_Kids.jpg'
+    image: /img/Happy_Children_Playing_Kids.jpg
     description: We focus on a whole-child approach to early learning supporting social, emotional and physical growth.
-    link:
-      label: Learn More about us
-      value: asdsad
   - title: Enrich Minds
     subtitle: Our goal is to
-    image: '/img/Happy_Children_Playing_Kids.jpg'
+    image: /img/Happy_Children_Playing_Kids.jpg
     description: We focus on a whole-child approach to early learning supporting social, emotional and physical growth.
-    link:
-      label: Learn More about us
-      value: asdsad
   - title: Child Care
     subtitle: Our goal is to
-    image: '/img/Happy_Children_Playing_Kids.jpg'
+    image: /img/Happy_Children_Playing_Kids.jpg
     description: We focus on a whole-child approach to early learning supporting social, emotional and physical growth.
-    link:
-      label: Learn More about us
-      value: asdsad
 mission: At ABC Daycare our mission is to positively impact the lives of children. We take great pride in the care we provide and are privileged to be part of so many families’ lives.
 programs:
   - title: Infants
