@@ -22,8 +22,6 @@ export const IndexPageTemplate = ({
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  console.log(frontmatter);
-
   return (
     <Layout>
       <IndexPageTemplate
@@ -66,6 +64,7 @@ query IndexPageTemplate {
         sections {
           title
           description
+          link
           image {
             childImageSharp {
               fluid(maxWidth: 948, quality: 75) {
@@ -73,7 +72,6 @@ query IndexPageTemplate {
               }
             }
           }
-          link
         }
       }
     }
