@@ -32,19 +32,19 @@ collections:
               {label: Description, name: description, widget: text},
               {label: Image, name: image, widget: image}
             ]}
-          - {label: Mission, name: mission, widget: text}
-          - {label: Programs, name: programs, widget: object, fields: [
-              {label: Title, name: title, widget: string},
-              {label: Subtitle, name: subtitle, widget: string},
-              {label: Link, name: link, widget: string},
-              {label: Color, name: color, widget: text}
-            ]}
-          - {label: Sections, name: sections, widget: object, fields: [
-              {label: Title, name: title, widget: string},
-              {label: Description, name: description, widget: text},
-              {label: Link, name: link, widget: string},
-              {label: Image, name: image, widget: image}
-            ]}
+          # - {label: Mission, name: mission, widget: text}
+          # - {label: Programs, name: programs, widget: object, fields: [
+          #     {label: Title, name: title, widget: string},
+          #     {label: Subtitle, name: subtitle, widget: string},
+          #     {label: Link, name: link, widget: string},
+          #     {label: Color, name: color, widget: text}
+          #   ]}
+          # - {label: Sections, name: sections, widget: object, fields: [
+          #     {label: Title, name: title, widget: string},
+          #     {label: Description, name: description, widget: text},
+          #     {label: Link, name: link, widget: string},
+          #     {label: Image, name: image, widget: image}
+          #   ]}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
