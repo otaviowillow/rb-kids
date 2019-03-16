@@ -12,27 +12,25 @@ export const IndexPageTemplate = ({
   programs,
   sections
 }) => (
-  <div>
+  <Layout>
     <Hero items={hero} />
     <ProgramsDisplay items={programs} />
     <SectionsList items={sections} />
     <Map />
-  </div>
+  </Layout>
 )
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
   return (
-    <Layout>
-      <IndexPageTemplate
-        hero={frontmatter.hero}
-        sections={frontmatter.sections}
-        programs={{
-          mission: frontmatter.mission,
-          programs: frontmatter.programs
-        }}
-      />
-    </Layout>
+    <IndexPageTemplate
+      hero={frontmatter.hero}
+      sections={frontmatter.sections}
+      programs={{
+        mission: frontmatter.mission,
+        programs: frontmatter.programs
+      }}
+    />
   )
 }
 
