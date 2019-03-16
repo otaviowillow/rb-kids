@@ -12,15 +12,14 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   const programs = entryPrograms ? entryPrograms.toJS() : []
 
   return (
-    <p>asd</p>
-    // <IndexPageTemplate
-    //   hero={{ hero }}
-    //   sections={{ sections }}
-    //   programs={{
-    //     mission: entry.getIn(['data', 'mission']),
-    //     programs: programs
-    //   }}
-    // />
+    <IndexPageTemplate
+      hero={{ hero }}
+      sections={{ sections }}
+      programs={{
+        mission: entry.getIn(['data', 'mission']),
+        programs: programs
+      }}
+    />
   )
 }
 
