@@ -1,0 +1,43 @@
+.navbar
+  position: fixed
+  top: 0
+  left: 0
+  width: 100%
+  background: white
+  z-index: 8
+  border-bottom: 4px solid #f07822
+  box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.2)
+  h1
+    img
+      height: 45px
+  nav
+    display: flex
+    justify-content: space-between
+    align-items: center
+    padding: 10px 0
+  li
+    position: relative
+    display: inline-block
+    padding: 0 10px
+    &:hover
+      ul
+        background: #f07822
+        display: block
+        position: absolute
+        top: 100%
+        left: 0
+        li
+          width: 100%
+          padding: 10px
+    ul
+      display: none
+      top: 120%
+      transition: .3s all
+  .top
+    background: #003a70
+    padding: 10px
+    box-sizing: border-box
+    color: white
+    font-size: 14px
+    nav
+      padding: 0
