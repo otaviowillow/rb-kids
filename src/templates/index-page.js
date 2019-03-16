@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
@@ -12,12 +12,12 @@ export const IndexPageTemplate = ({
   programs,
   sections
 }) => (
-  <Fragment>
+  <div>
     <Hero items={hero} />
     <ProgramsDisplay items={programs} />
     <SectionsList items={sections} />
     <Map />
-  </Fragment>
+  </div>
 )
 
 const IndexPage = ({ data }) => {
