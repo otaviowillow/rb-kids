@@ -1,7 +1,9 @@
 import React from 'react'
-import GoogleMapReact from 'google-map-react';
+import GoogleMapReact from 'google-map-react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
+const Marker = ({ icon }) => <FontAwesomeIcon icon={icon} />;
 
 const Map = () => (
   <div style={{ height: '400px', width: '100%' }}>
@@ -12,10 +14,10 @@ const Map = () => (
         lng: -123.0047447
       }}
       defaultZoom={16}>
-      <AnyReactComponent
+      <Marker
         lat={49.1964138}
         lng={-123.0047447}
-        text="My Marker"
+        icon={faMapMarkerAlt}
       />
     </GoogleMapReact>
   </div>
