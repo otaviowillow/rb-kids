@@ -5,6 +5,7 @@ const PhotoGalleryPreview = ({ entry, getAsset }) => {
   const entryPhotoGallery = entry.getIn(['data', 'gallery'])
   const photoGallery = entryPhotoGallery ? entryPhotoGallery.toJS() : []
 
+  console.log(photoGallery);
   return (
     <PhotoGalleryTemplate
       title={entry.getIn(['data', 'title'])}

@@ -15,4 +15,3 @@ gallery:
   - alt: sadsad
     image: /img/blog-index.jpg
 ---
-
