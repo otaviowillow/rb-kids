@@ -75,7 +75,7 @@ collections:
         collection: "employees"
         searchFields: ["title", "avatar"]
         valueField: "title"
-        displayFields: ["title"]
+        displayFields: ["title", "avatar"]
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
