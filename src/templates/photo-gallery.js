@@ -8,6 +8,8 @@ export const PhotoGalleryTemplate = ({
   description,
   gallery
 }) => {
+  console.log('GALLERY', gallery);
+
   return (
     <div className="photo-gallery">
       <header>
