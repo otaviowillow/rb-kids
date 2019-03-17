@@ -29,6 +29,27 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: Gallery, name: gallery, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
+  - name: "programs"
+    label: "Programs"
+    folder: "src/pages/programs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programs"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Background", name: "background", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "latest-updates"
+    label: "Latest Updates"
+    folder: "src/pages/latest-updates"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "latest-updates"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Background", name: "background", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:

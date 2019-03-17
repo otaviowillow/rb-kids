@@ -27,9 +27,7 @@ const NavBar = () => (
             <li>Link 2</li>
           </ul>
         </li>
-        <li>
-          <span>Latest Updates</span>
-        </li>
+        <li><Link to='/latest-updates'>Latest Updates</Link></li>
         <li>
           <span>Enrollment <FontAwesomeIcon icon={faChevronDown} /></span>
           <ul>
