@@ -10,7 +10,7 @@ const PhotoGalleryPreview = ({ entry, getAsset }) => {
     <PhotoGalleryTemplate
       title={entry.getIn(['data', 'title'])}
       description={entry.getIn(['data', 'description'])}
-      gallery={{ photoGallery }}
+      gallery={entry.getIn(['data', 'gallery'])}
     />
   )
 }

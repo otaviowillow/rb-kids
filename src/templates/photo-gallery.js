@@ -18,7 +18,7 @@ export const PhotoGalleryTemplate = ({
       </header>
       <div className="window-centered">
         <ul>
-          {gallery && gallery.map((item, i) => (
+          {gallery.map((item, i) => (
             <li key={i}>
               <img src={item.image.childImageSharp.fluid.src} />
             </li>
