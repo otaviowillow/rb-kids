@@ -5,7 +5,7 @@ import { faMapMarkerAlt, faEnvelope, faPhone, faChevronDown } from '@fortawesome
 
 import rbKids from '../../img/rb-kids-logo.gif'
 
-const NavBar = ({ items }) => (
+const NavBar = () => (
   <header className="navbar">
     <div className="top">
       <nav className="window-centered">
@@ -16,12 +16,10 @@ const NavBar = ({ items }) => (
         </ul>
       </nav>
     </div>
-    <nav className="window-centered">
-      <h1>
-        <Link to='/'><img src={rbKids} alt="RB Kids - logo" /></Link>
-      </h1>
-      <ul>
-        <li>Home</li>
+    <nav className="bottom window-centered">
+      <h1><Link to='/'><img src={rbKids} alt="RB Kids - logo" /></Link></h1>
+      <ul className="menu">
+        <li><Link to='/'>Home</Link></li>
         <li>
           <span>About us <FontAwesomeIcon icon={faChevronDown} /></span>
           <ul>
@@ -39,9 +37,7 @@ const NavBar = ({ items }) => (
             <li>Link 2</li>
           </ul>
         </li>
-        <li>
-          <span>Photo Gallery</span>
-        </li>
+        <li><Link to='/photo-gallery'>Photo Gallery</Link></li>
         <li>
           <span>Programs</span>
         </li>
