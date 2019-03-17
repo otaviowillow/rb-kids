@@ -18,15 +18,25 @@ collections:
   #     - {label: "Description", name: "description", widget: "text"}
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Tags", name: "tags", widget: "list"}
-  - name: "programs"
-    label: "Programs"
+  - name: "employees"
+    label: "Employees"
     folder: "src/pages/employees"
     create: true
     slug: "{{name}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programs"}
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "programs"
+    label: "Programs"
+    folder: "src/pages/programs"
+    create: true
+    slug: "{{name}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programs"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Background", name: "background", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "photo-gallery"
     label: "Photo Gallery"
@@ -59,7 +69,13 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "latest-updates"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Background", name: "background", widget: "image"}
-      - {label: "Post Author", name: "author", widget: "relation", collection: "employees", searchFields: ["title", "avatar"], valueField: "title", displayFields: ["title"]}
+      - label: "Post Author"
+        name: "author"
+        widget: "relation"
+        collection: "employees"
+        searchFields: ["title", "avatar"]
+        valueField: "title"
+        displayFields: ["title"]
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
