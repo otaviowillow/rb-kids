@@ -59,6 +59,13 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "latest-updates"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Background", name: "background", widget: "image"}
+      - label: "Post Author"
+        name: "author"
+        widget: "relation"
+        collection: "employees"
+        searchFields: ["title", "avatar"]
+        valueField: "title"
+        displayFields: ["title", "avatar"]
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
