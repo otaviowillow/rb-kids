@@ -5,45 +5,43 @@ import { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import TemplateHeader from '../components/TemplateHeader'
 
-export const LatestUpdatesTemplate = ({
+export const EmployeesTemplate = ({
   title,
-  description,
-  background,
+  avatar,
   html
 }) => (
   <div className="latest-updates">
-    <TemplateHeader title={title} background={background} />
+    <TemplateHeader title={title} background={avatar} />
     <div className="window-centered content">
       <HTMLContent content={html} />
     </div>
   </div>
 )
 
-const LatestUpdates = ({ data }) => {
+const Employees = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <LatestUpdatesTemplate
+      <EmployeesTemplate
         title={post.frontmatter.title}
-        background={post.frontmatter.background.childImageSharp ? post.frontmatter.background.childImageSharp.fluid.src : post.frontmatter.background}
+        avatar={post.frontmatter.avatar.childImageSharp ? post.frontmatter.avatar.childImageSharp.fluid.src : post.frontmatter.avatar}
         html={post.html}
       />
     </Layout>
   )
 }
 
-export default LatestUpdates
+export default Employees
 
 export const pageQuery = graphql`
-  query LatestUpdatesByID($id: String!) {
+  query EmployeesByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
         title
-        description
-        background {
+        avatar {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
               ...GatsbyImageSharpFluid

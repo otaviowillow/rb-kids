@@ -1,6 +1,7 @@
 ---
 templateKey: 'latest-updates'
 title: Closed Tuesday February 12
+date: 2019-02-12T15:04:10.000Z
 background: /img/snowman.jpg
 ---
 

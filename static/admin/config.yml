@@ -18,6 +18,16 @@ collections:
   #     - {label: "Description", name: "description", widget: "text"}
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Tags", name: "tags", widget: "list"}
+  - name: "programs"
+    label: "Programs"
+    folder: "src/pages/employees"
+    create: true
+    slug: "{{name}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programs"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Avatar", name: "avatar", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "photo-gallery"
     label: "Photo Gallery"
     folder: "src/pages/photo-gallery"
