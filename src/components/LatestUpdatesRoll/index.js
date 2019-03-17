@@ -6,12 +6,17 @@ class LatestUpdatesRoll extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
+    console.log(posts[0]);
     return (
-      <ul className="photo-gallery-roll window-centered">
+      <ul className="latest-updates-roll window-centered">
       {posts && (posts.map(({ node: post }) => (
-          <li style={{ backgroundImage: `url(${post.frontmatter.background.childImageSharp.fluid.src})` }}>
+          <li>
             <Link to={post.fields.slug}>
-              <h2>{post.frontmatter.title}</h2>
+              <img src={post.frontmatter.background.childImageSharp.fluid.src} />
+              <aside>
+                <h2>{post.frontmatter.title}</h2>
+                <p>{post.excerpt}</p>
+              </aside>
             </Link>
           </li>
         )))}
