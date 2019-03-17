@@ -20,7 +20,7 @@ export const PhotoGalleryTemplate = ({
         <ul>
           {gallery.map((item, i) => (
             <li key={i}>
-              <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src | item.image} />
+              <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} />
             </li>
           ))}
         </ul>
