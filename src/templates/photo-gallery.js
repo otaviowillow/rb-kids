@@ -7,29 +7,25 @@ export const PhotoGalleryTemplate = ({
   title,
   description,
   gallery
-}) => {
-  console.log('GALLERY', gallery);
-
-  return (
-    <div className="photo-gallery">
-      <header>
-        <div className="window-centered">
-          <h1>{title}</h1>
-          <p>{description}</p>
-        </div>
-      </header>
+}) => (
+  <div className="photo-gallery">
+    <header>
       <div className="window-centered">
-        <ul>
-          {gallery.map((item, i) => (
-            <li key={i}>
-              <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} />
-            </li>
-          ))}
-        </ul>
+        <h1>{title}</h1>
+        <p>{description}</p>
       </div>
+    </header>
+    <div className="window-centered">
+      <ul>
+        {gallery.map((item, i) => (
+          <li key={i}>
+            <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} />
+          </li>
+        ))}
+      </ul>
     </div>
-  )
-}
+  </div>
+)
 
 const PhotoGallery = ({ data }) => {
   const { markdownRemark: post } = data

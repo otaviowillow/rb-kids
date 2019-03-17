@@ -1,5 +1,9 @@
 @import "reset.css"
 
+$orange1: #f07822
+$orange2: #b6463a
+$blue1: #237e90
+
 @import "/Hero/style.sass"
 @import "/Navbar/style.sass"
 @import "/ProgramsDisplay/style.sass"
@@ -10,6 +14,40 @@
 body
   font-family: 'Roboto'
   line-height: 1.5
+h1, h2, h3, h4
+  font-weight: 300
+h1
+  font-size: 52px
+h2
+  font-size: 38px
+h3
+  font-size: 28px
+h4
+  font-size: 18px
+h5
+  font-size: 15px
+  font-weight: bold
+p, li
+  font-size: 15px
+a
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+img
+  display: inline-block
+  width: auto
+  max-width: 100%
+
+.content
+  h1, h2, p, li, img
+    margin: 0 0 10px 0
+  ul, ol
+    padding: 0 20px
+    box-sizing: border-box
+  ul
+    list-style: disc
+  ol
+    list-style: georgian
 
 .window-centered
   float: none

@@ -20,7 +20,7 @@ const TemplateWrapper = ({ children }) => (
       }
     `}
     render={data => (
-      <div style={{ paddingTop: '13vh' }}>
+      <div style={{ paddingTop: '135px' }}>
         <Helmet>
           <html lang="en" />
           <title>{data.site.siteMetadata.title}</title>

@@ -19,7 +19,7 @@ collections:
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Tags", name: "tags", widget: "list"}
   - name: "photo-gallery"
-    label: "Photo Galler"
+    label: "Photo Gallery"
     folder: "src/pages/photo-gallery"
     create: true
     slug: "{{slug}}"
