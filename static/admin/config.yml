@@ -28,10 +28,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: Gallery, name: gallery, widget: list, fields: [
-          - {label: Image, name: image, widget: image}
-          - {label: Alt, name: alt, widget: string}
-        ]}
+      - {label: Gallery, name: gallery, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
   - name: "pages"
     label: "Pages"
     files:
