@@ -16,8 +16,8 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image"}
       - {label: "Role", name: "role", widget: "string"}
-      - {label: "Phone", name: "phone", widget: "string", optional: true}
-      - {label: "Email", name: "email", widget: "string", optional: true}
+      - {label: "Phone", name: "phone", widget: "string", required: false}
+      - {label: "Email", name: "email", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "photo-gallery"
     label: "Photo Gallery"

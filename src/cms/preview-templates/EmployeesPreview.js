@@ -9,7 +9,7 @@ const EmployeesPreview = ({ entry, widgetFor, getAsset }) => {
       role={entry.getIn(['data', 'role'])}
       phone={entry.getIn(['data', 'phone'])}
       email={entry.getIn(['data', 'email'])}
-      body={widgetFor('body')}
+      body={entry.getIn(['data', 'body'])}
     />
   )
 }
