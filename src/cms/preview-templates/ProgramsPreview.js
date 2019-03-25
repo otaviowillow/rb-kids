@@ -7,7 +7,7 @@ const ProgramsPreview = ({ entry, widgetFor, getAsset }) => {
     <Layout>
       <ProgramsTemplate
         title={entry.getIn(['data', 'title'])}
-        background={entry.getAsset(['data', 'background'])}
+        background={getAsset(entry.getIn(['data', 'background']))}
         html={widgetFor('body')}
       />
     </Layout>

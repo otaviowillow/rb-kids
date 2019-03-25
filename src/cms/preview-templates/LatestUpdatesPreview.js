@@ -8,7 +8,7 @@ const LatestUpdatesPreview = ({ entry, widgetFor, getAsset }) => {
       <LatestUpdatesTemplate
         title={entry.getIn(['data', 'title'])}
         date={entry.getIn(['data', 'date'])}
-        background={entry.getAsset(['data', 'background'])}
+        background={getAsset(entry.getIn(['data', 'background']))}
         html={widgetFor('body')}
       />
     </Layout>
