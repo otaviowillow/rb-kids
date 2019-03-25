@@ -7,7 +7,7 @@ export const EnrollmentPageTemplate = ({ title, content, contentComponent }) => 
   const PageContent = contentComponent || Content
 
   return (
-    <section className="window-centered padding">
+    <section className="window-centered">
       <PageContent className="content" content={content} />
     </section>
   )

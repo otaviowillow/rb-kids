@@ -13,9 +13,9 @@ export const ProgramsTemplate = ({
   contentComponent
 }) => {
   const PageContent = contentComponent || Content
-  
+
   return (
-    <div className="programs margin">
+    <div className="programs">
       <TemplateHeader title={title} background={background} />
       <div className="window-centered content">
         <PageContent className="content" content={content} />
