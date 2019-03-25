@@ -1,7 +1,7 @@
 ---
 templateKey: 'programs'
 title: Infant & Toddler
-background: /img/jumbotron.jpg
+background: /img/kindergarten.jpg
 ---
 
 ### Infant & Toddler Program:

@@ -67,6 +67,7 @@ Monday to Friday
                 <input name="bot-field" onChange={this.handleChange} />
               </label>
             </div>
+            <h2>Contact Us</h2>
             <div className="field">
               <label className="label" htmlFor={'name'}>Your name</label>
               <div className="control">

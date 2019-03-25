@@ -5,13 +5,13 @@ date: 2017-01-04T15:04:10.000Z
 description: Photos from Christmas!
 gallery:
   - alt: Jombotron
-    image: /img/jumbotron.jpg
+    image: /img/kindergarten.jpg
   - alt: Jombotron
-    image: /img/jumbotron.jpg
+    image: /img/kindergarten.jpg
   - alt: Jombotron
-    image: /img/jumbotron.jpg
+    image: /img/kindergarten.jpg
   - alt: Jombotron
-    image: /img/jumbotron.jpg
+    image: /img/kindergarten.jpg
   - alt: sadsad
-    image: /img/blog-index.jpg
+    image: /img/kindergarten.jpg
 ---
