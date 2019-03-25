@@ -6,7 +6,6 @@ import PhotoGalleryPreview from './preview-templates/PhotoGalleryPreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 import LatestUpdatesPreview from './preview-templates/LatestUpdatesPreview'
 import ProgramsPreview from './preview-templates/ProgramsPreview'
-import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerPreviewStyle(styles.toString(), { raw: true })
 CMS.registerPreviewTemplate('index', IndexPagePreview)
