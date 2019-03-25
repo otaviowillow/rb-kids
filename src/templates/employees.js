@@ -1,21 +1,25 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
-import TemplateHeader from '../components/TemplateHeader'
+import EmployeeCard from '../components/EmployeeCard'
 
 export const EmployeesTemplate = ({
-  title,
+  name,
   avatar,
-  html
+  role,
+  phone,
+  email,
+  body
 }) => (
-  <div className="latest-updates">
-    <TemplateHeader title={title} background={avatar} />
-    <div className="window-centered content">
-      <HTMLContent content={html} />
-    </div>
-  </div>
+  <EmployeeCard
+    avatar={avatar}
+    name={name}
+    role={role}
+    phone={phone}
+    email={email}
+    body={body}
+  />
 )
 
 const Employees = ({ data }) => {
@@ -24,9 +28,12 @@ const Employees = ({ data }) => {
   return (
     <Layout>
       <EmployeesTemplate
-        title={post.frontmatter.title}
+        name={post.frontmatter.title}
         avatar={post.frontmatter.avatar.childImageSharp ? post.frontmatter.avatar.childImageSharp.fluid.src : post.frontmatter.avatar}
-        html={post.html}
+        role={post.frontmatter.role}
+        phone={post.frontmatter.phone}
+        email={post.frontmatter.email}
+        body={post.html}
       />
     </Layout>
   )

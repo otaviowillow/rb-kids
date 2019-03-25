@@ -13,8 +13,11 @@ collections:
     slug: "{{name}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "employees"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image"}
+      - {label: "Role", name: "role", widget: "string"}
+      - {label: "Phone", name: "phone", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "photo-gallery"
     label: "Photo Gallery"

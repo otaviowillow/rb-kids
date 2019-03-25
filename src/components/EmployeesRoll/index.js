@@ -1,14 +1,13 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
 
-import { HTMLContent } from '../../components/Content'
+import EmployeeCard from '../../components/EmployeeCard'
 
 class EmployeesRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
-    console.log(posts[0]);
     return (
       <div className="latest-updates-roll window-centered padding">
         <h2>RB Kids Team</h2>
@@ -18,16 +17,16 @@ class EmployeesRoll extends React.Component {
         <br />
         <p>Important Note:  We provide links to other websites, blogs and other places on the internet for information purposes only rbKids and/or Ritchie Bros. Auctioneers are not responsible for the content or views expressed on any of these.</p>
         <ul>
-        {posts && (posts.map(({ node: post }) => (
-            <li>
-              <figure className="avatar">
-                <img src={post.frontmatter.avatar.childImageSharp.fluid.src} />
-              </figure>
-              <aside>
-                <h2>{post.frontmatter.title}</h2>
-                <HTMLContent content={post.html} noPadding />
-              </aside>
-            </li>
+        {posts && (posts.map(({ node: post }, i) => (
+            <EmployeeCard
+              key={i}
+              avatar={post.frontmatter.avatar.childImageSharp.fluid.src}
+              name={post.frontmatter.name}
+              role={post.frontmatter.role}
+              phone={post.frontmatter.phone}
+              email={post.frontmatter.email}
+              body={post.html}
+            />
           )))}
         </ul>
       </div>
@@ -52,7 +51,10 @@ export default () => (
             }
             frontmatter {
               templateKey
-              title
+              name
+              role
+              phone
+              email
               avatar {
                 childImageSharp {
                   fluid(maxWidth: 600, quality: 100) {
