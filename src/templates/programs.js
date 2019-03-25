@@ -11,14 +11,18 @@ export const ProgramsTemplate = ({
   background,
   content,
   contentComponent
-}) => (
-  <div className="programs margin">
-    <TemplateHeader title={title} background={background} />
-    <div className="window-centered content">
-      <PageContent className="content" content={content} />
+}) => {
+  const PageContent = contentComponent || Content
+  
+  return (
+    <div className="programs margin">
+      <TemplateHeader title={title} background={background} />
+      <div className="window-centered content">
+        <PageContent className="content" content={content} />
+      </div>
     </div>
-  </div>
-)
+  )
+}
 
 const Programs = ({ data }) => {
   const { markdownRemark: post } = data
