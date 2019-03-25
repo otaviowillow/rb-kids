@@ -11,10 +11,10 @@ export const ProgramsTemplate = ({
   background,
   html
 }) => (
-  <div className="programs">
+  <div className="programs margin">
     <TemplateHeader title={title} background={background} />
     <div className="window-centered content">
-      <HTMLContent content={html} />
+      <HTMLContent content={html} noPadding />
     </div>
   </div>
 )
