@@ -9,7 +9,7 @@ export const PhotoGalleryTemplate = ({
   gallery
 }) => (
   <div className="photo-gallery">
-    <header>
+    <header className="margin">
       <div className="window-centered">
         <h1>{title}</h1>
         <p>{description}</p>

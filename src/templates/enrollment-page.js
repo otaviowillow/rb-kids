@@ -3,22 +3,22 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const EnrollmentPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="window-centered">
+    <section className="window-centered padding">
       <PageContent className="content" content={content} />
     </section>
   )
 }
 
-const AboutPage = ({ data }) => {
+const EnrollmentPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <EnrollmentPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -27,10 +27,10 @@ const AboutPage = ({ data }) => {
   )
 }
 
-export default AboutPage
+export default EnrollmentPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const EnrollmentPageQuery = graphql`
+  query EnrollmentPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

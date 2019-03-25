@@ -7,7 +7,7 @@ class PhotoGalleryRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <ul className="photo-gallery-roll window-centered">
+      <ul className="photo-gallery-roll window-centered padding">
       {posts && (posts.map(({ node: post }) => (
           <li style={{ backgroundImage: `url(${post.frontmatter.gallery[0].image.childImageSharp.fluid.src})` }}>
             <Link to={post.fields.slug}>
@@ -17,7 +17,7 @@ class PhotoGalleryRoll extends React.Component {
           </li>
         )))}
       </ul>
-    );
+    )
   }
 }
 

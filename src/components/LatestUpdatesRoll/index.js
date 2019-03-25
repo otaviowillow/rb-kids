@@ -6,9 +6,8 @@ class LatestUpdatesRoll extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
-    console.log(posts[0]);
     return (
-      <ul className="latest-updates-roll window-centered">
+      <ul className="latest-updates-roll window-centered padding">
       {posts && (posts.map(({ node: post }) => (
           <li>
             <Link to={post.fields.slug}>

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMapMarkerAlt, faEnvelope, faPhone, faChevronDown } from '@fortawesome/free-solid-svg-icons'
+import { faMapMarkerAlt, faEnvelope, faPhone, faChevronDown, faBars } from '@fortawesome/free-solid-svg-icons'
 
 import rbKids from '../../img/rb-kids-logo.gif'
 
@@ -19,30 +19,21 @@ const NavBar = () => (
     <nav className="bottom window-centered">
       <h1><Link to='/'><img src={rbKids} alt="RB Kids - logo" /></Link></h1>
       <ul className="menu">
-        <li><Link to='/'>Home</Link></li>
+        {/* <li><Link to='/'>Home</Link></li> */}
         <li>
-          <span>About us <FontAwesomeIcon icon={faChevronDown} /></span>
+          <Link to='/about'>About us <FontAwesomeIcon icon={faChevronDown} /></Link>
           <ul>
-            <li>Link 1</li>
-            <li>Link 2</li>
+            <li><Link to='/about'>History & Philosophy</Link></li>
+            <li><Link to='/employees'>Our Staff</Link></li>
           </ul>
         </li>
         <li><Link to='/latest-updates'>Latest Updates</Link></li>
-        <li>
-          <span>Enrollment <FontAwesomeIcon icon={faChevronDown} /></span>
-          <ul>
-            <li>Link 1</li>
-            <li>Link 2</li>
-          </ul>
-        </li>
+        <li><Link to='/enrollment'>Enrollment</Link></li>
         <li><Link to='/photo-gallery'>Photo Gallery</Link></li>
-        <li>
-          <span>Programs</span>
-        </li>
-        <li>
-          <span>Contact Us</span>
-        </li>
+        <li><Link to='/programs'>Programs</Link></li>
+        <li><Link to='/contact'>Contact us</Link></li>
       </ul>
+      <h3><FontAwesomeIcon icon={faBars} /></h3>
     </nav>
   </header>
 )

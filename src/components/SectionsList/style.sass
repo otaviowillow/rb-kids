@@ -1,6 +1,9 @@
 .sections-list
-  display: flex
-  width: 100%
+  display: block
+  @media only screen and (min-width: 790px)
+    display: flex
+    width: 100%
+    flex-flow: row
   .section
     position: absolute
     bottom: 0
@@ -38,3 +41,38 @@
       height: 100%
       opacity: 1
       z-index: 2
+
+// .sections-list
+//   display: block
+//   @media only screen and (min-width: 790px)
+//     display: flex
+//     width: 100%
+//     flex-flow: column
+//   li
+//     position: relative
+//     flex-grow: 1
+//     flex-basis: 0
+//     overflow: hidden
+//     &:after
+//       background: linear-gradient(transparent, black)
+//       content: ''
+//       display: block
+//       position: absolute
+//       top: 0
+//       left: 0
+//       width: 101%
+//       height: 100%
+//       opacity: 1
+//       z-index: 2
+//   .section
+//     position: absolute
+//     bottom: 0
+//     left: 0
+//     width: 100%
+//     padding: 25px
+//     z-index: 3
+//     box-sizing: border-box
+//     color: white
+//   img
+//     display: block
+//     width: 100%

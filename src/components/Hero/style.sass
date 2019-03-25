@@ -1,8 +1,13 @@
 .hero
+  position: relative
+  padding: 100px 0 0 0
+  @media only screen and (min-width: 790px)
+    padding: 135px 0 0 0
   .wrapper
     padding: 40vh 0 5vh 0
     background-size: cover
     background-position: center
+    width: 100%
     &:after
       background: linear-gradient(transparent, black)
       content: ''
@@ -27,5 +32,10 @@
     padding: 0 40px 0 20px
   p
     color: white
-    width: 40%
+    width: 100%
     padding: 20px 0
+    @media only screen and (min-width: 790px)
+      width: 40%
+
+.BrainhubCarousel__dots
+  border: 1px solid red

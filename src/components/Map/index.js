@@ -3,12 +3,12 @@ import GoogleMapReact from 'google-map-react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
 
-const Marker = ({ icon }) => <FontAwesomeIcon icon={icon} />;
+const Marker = ({ icon }) => <FontAwesomeIcon icon={icon} className="icon" />;
 
 const Map = () => (
-  <div style={{ height: '400px', width: '100%' }}>
+  <div className="map">
     <GoogleMapReact
-      bootstrapURLKeys={{ key: 'AIzaSyBRLnip2mG17LJD6fW57rRjsN7XW5gHztY' }}
+      bootstrapURLKeys={{ key: 'AIzaSyA4abwXM9G_iVwESpU_QprIKOkRAgwGgbU' }}
       defaultCenter={{
         lat: 49.1964138,
         lng: -123.0047447

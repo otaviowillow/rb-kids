@@ -8,26 +8,56 @@
   background: white
   z-index: 8
   border-bottom: 4px solid $orange1
+  padding: 20px 0
   box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.2)
-  height: 135px
+  @media only screen and (min-width: 790px)
+    height: 135px
+    padding: 0
   h1 a
     display: flex
+  h3
+    display: inline-block
+    @media only screen and (min-width: 790px)
+      display: none
   li
     display: inline-block
     padding: 0 10px
   .top
-     background: #003a70
-     flex: 1 1 auto
-     color: white
-     align-items: center
-     nav
-       height: 100%
-       font-size: 14px
+    display: none
+    background: $blue2
+    flex: 1 1 auto
+    color: white
+    align-items: center
+    @media only screen and (min-width: 790px)
+      display: flex
+    nav
+      height: 100%
+      font-size: 14px
   .top nav, .bottom
     display: flex
     flex: 1 1 auto
     display: flex
     justify-content: space-between
     align-items: center
+  .menu
+    display: none
+    @media only screen and (min-width: 790px)
+      display: flex
   .menu ul
     display: none
+    position: absolute
+    top: 100%
+    left: 0
+    background: $orange1
+  .menu li
+    position: relative
+  .menu ul li
+    display: inline-block
+    width: 100%
+    padding: 10px
+    box-sizing: border-box
+    a
+      color: white
+  .menu li:hover
+    ul
+      display: block

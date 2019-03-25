@@ -40,7 +40,8 @@ rbKids:
 * Encourages independence from the beginning
 * Shares, cares, communicates and celebrates diversity
 * Supports early learning through play, creative exploration and enhanced educational opportunities
-  ### Montessori:
+
+### Montessori:
 
 The Montessori method provides a stimulating environment, which helps to prepare the child for future learning and living. The Montessori environment provides a balance of individual and group work, challenge and support, free choice and appropriate limits, independence and collaboration. It takes the whole child into consideration and helps the child move towards a real joy of learning and living.
 
