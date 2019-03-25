@@ -24,7 +24,7 @@ collections:
     create: true
     slug: "{{name}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programs"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "employees"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -69,6 +69,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "latest-updates"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Background", name: "background", widget: "image"}
+      - {label: "Date", name: "date", widget: "date"}
       - label: "Post Author"
         name: "author"
         widget: "relation"

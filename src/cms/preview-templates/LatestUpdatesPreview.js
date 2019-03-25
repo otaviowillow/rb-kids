@@ -1,5 +1,5 @@
 import React from 'react'
-import { LatestUpdateTemplate } from '../../templates/photo-gallery'
+import { LatestUpdateTemplate } from '../../templates/latest-updates'
 
 const LatestUpdatePreview = ({ entry, getAsset }) => {
   return (
