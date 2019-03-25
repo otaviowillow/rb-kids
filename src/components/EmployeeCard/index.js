@@ -23,7 +23,7 @@ const EmployeeCard = ({
         {email ? <li><FontAwesomeIcon icon={faEnvelope} /> {email}</li> : null}
         {phone ? <li><FontAwesomeIcon icon={faPhone} /> {phone}</li> : null}
       </ul>
-      <HTMLContent content={body} noPadding />
+      <HTMLContent content={body} />
     </aside>
   </li>
 )

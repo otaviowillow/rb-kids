@@ -28,9 +28,9 @@ const Employees = ({ data }) => {
   return (
     <Layout>
       <EmployeesTemplate
-        name={post.frontmatter.title}
         avatar={post.frontmatter.avatar.childImageSharp ? post.frontmatter.avatar.childImageSharp.fluid.src : post.frontmatter.avatar}
         role={post.frontmatter.role}
+        name={post.frontmatter.title}
         phone={post.frontmatter.phone}
         email={post.frontmatter.email}
         body={post.html}
@@ -47,7 +47,10 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        title
+        name
+        role
+        phone
+        email
         avatar {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
