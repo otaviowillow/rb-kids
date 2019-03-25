@@ -1,11 +1,11 @@
 import React from 'react'
-import { LatestUpdateTemplate } from '../../templates/latest-updates'
+import { LatestUpdatesTemplate } from '../../templates/latest-updates'
 import Layout from '../../components/Layout'
 
-const LatestUpdatePreview = ({ entry, getAsset }) => {
+const LatestUpdatesPreview = ({ entry, widgetFor, getAsset }) => {
   return (
     <Layout>
-      <LatestUpdateTemplate
+      <LatestUpdatesTemplate
         title={entry.getIn(['data', 'title'])}
         date={entry.getIn(['data', 'date'])}
         background={entry.getAsset(['data', 'background'])}
@@ -15,4 +15,4 @@ const LatestUpdatePreview = ({ entry, getAsset }) => {
   )
 }
 
-export default LatestUpdatePreview
+export default LatestUpdatesPreview

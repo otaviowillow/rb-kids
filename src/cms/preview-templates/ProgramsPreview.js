@@ -2,7 +2,7 @@ import React from 'react'
 import { ProgramsTemplate } from '../../templates/programs'
 import Layout from '../../components/Layout'
 
-const ProgramsPreview = ({ entry, getAsset }) => {
+const ProgramsPreview = ({ entry, widgetFor, getAsset }) => {
   return (
     <Layout>
       <ProgramsTemplate

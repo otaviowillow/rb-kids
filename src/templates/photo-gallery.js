@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
@@ -19,7 +18,7 @@ export const PhotoGalleryTemplate = ({
       <ul>
         {gallery.map((item, i) => (
           <li key={i}>
-            <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} />
+            <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} alt='Gallery item' />
           </li>
         ))}
       </ul>
