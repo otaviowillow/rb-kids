@@ -10,14 +10,18 @@ export const LatestUpdatesTemplate = ({
   description,
   background,
   html
-}) => (
-  <div className="latest-updates">
-    <TemplateHeader title={title} background={background} />
-    <div className="window-centered content">
-      <HTMLContent content={html} />
+}) => {
+  console.log('HTML', html)
+
+  return (
+    <div className="latest-updates">
+      <TemplateHeader title={title} background={background} />
+      <div className="window-centered content">
+        <HTMLContent content={html} />
+      </div>
     </div>
-  </div>
-)
+  )
+}
 
 const LatestUpdates = ({ data }) => {
   const { markdownRemark: post } = data
