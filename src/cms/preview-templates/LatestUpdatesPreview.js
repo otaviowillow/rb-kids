@@ -7,7 +7,7 @@ const LatestUpdatesPreview = ({ entry, widgetFor, getAsset }) => {
       title={entry.getIn(['data', 'title'])}
       date={entry.getIn(['data', 'date'])}
       background={getAsset(entry.getIn(['data', 'background']))}
-      html={entry.getIn(['data', 'body'])}
+      content={widgetFor('body')}
     />
   )
 }

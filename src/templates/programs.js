@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import { HTMLContent } from '../components/Content'
+import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import TemplateHeader from '../components/TemplateHeader'
 
@@ -9,12 +9,13 @@ export const ProgramsTemplate = ({
   title,
   description,
   background,
-  html
+  content,
+  contentComponent
 }) => (
   <div className="programs margin">
     <TemplateHeader title={title} background={background} />
     <div className="window-centered content">
-      <HTMLContent content={html} noPadding />
+      <PageContent className="content" content={content} />
     </div>
   </div>
 )
@@ -22,14 +23,13 @@ export const ProgramsTemplate = ({
 const Programs = ({ data }) => {
   const { markdownRemark: post } = data
 
-  console.log(post);
-
   return (
     <Layout>
       <ProgramsTemplate
         title={post.frontmatter.title}
         background={post.frontmatter.background.childImageSharp ? post.frontmatter.background.childImageSharp.fluid.src : post.frontmatter.background}
-        html={post.html}
+        content={post.html}
+        contentComponent={HTMLContent}
       />
     </Layout>
   )

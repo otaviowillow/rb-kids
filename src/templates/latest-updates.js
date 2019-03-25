@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import { HTMLContent } from '../components/Content'
+import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import TemplateHeader from '../components/TemplateHeader'
 
@@ -9,15 +9,16 @@ export const LatestUpdatesTemplate = ({
   title,
   description,
   background,
-  html
+  content,
+  contentComponent
 }) => {
-  console.log('HTML', html)
+  const PageContent = contentComponent || Content
 
   return (
     <div className="latest-updates">
       <TemplateHeader title={title} background={background} />
       <div className="window-centered content">
-        <HTMLContent content={html} />
+        <PageContent className="content" content={content} />
       </div>
     </div>
   )
@@ -31,7 +32,8 @@ const LatestUpdates = ({ data }) => {
       <LatestUpdatesTemplate
         title={post.frontmatter.title}
         background={post.frontmatter.background.childImageSharp ? post.frontmatter.background.childImageSharp.fluid.src : post.frontmatter.background}
-        html={post.html}
+        content={post.html}
+        contentComponent={HTMLContent}
       />
     </Layout>
   )
