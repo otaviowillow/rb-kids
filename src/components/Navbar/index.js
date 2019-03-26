@@ -13,7 +13,7 @@ const NavBar = () => (
           <h5><FontAwesomeIcon icon={faMapMarkerAlt} /> 9500 Glenlyon Parkway</h5>
           <ul>
             <li><FontAwesomeIcon icon={faEnvelope} /> asd@asdasd.asd</li>
-            <li><FontAwesomeIcon icon={faPhone} /> 555-555-5555</li>
+            <li><FontAwesomeIcon icon={faPhone} /> 778-331-5532</li>
           </ul>
         </nav>
       </div>

@@ -17,8 +17,8 @@ const EmployeeCard = ({
       <img src={avatar} />
     </figure>
     <aside>
-      <h2>{role}</h2>
-      <h3>{name}</h3>
+      <h3>{role}</h3>
+      <h4>{name}</h4>
       <ul className="details-card">
         {email ? <li><FontAwesomeIcon icon={faEnvelope} /> {email}</li> : null}
         {phone ? <li><FontAwesomeIcon icon={faPhone} /> {phone}</li> : null}

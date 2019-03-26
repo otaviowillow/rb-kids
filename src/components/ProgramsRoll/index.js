@@ -6,12 +6,17 @@ class ProgramsRoll extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
+    console.log(posts);
     return (
       <ul className="programs-roll window-centered padding">
       {posts && (posts.map(({ node: post }, i) => (
           <li key={i}>
             <Link to={post.fields.slug}>
-              <img src={post.frontmatter.background.childImageSharp.fluid.src} />
+              <aside className="image">
+                <figure>
+                  <img src={post.frontmatter.background.childImageSharp.fluid.src} />
+                </figure>
+              </aside>
               <aside>
                 <h2>{post.frontmatter.title}</h2>
                 <p>{post.excerpt}</p>
