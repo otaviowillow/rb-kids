@@ -50,14 +50,18 @@ sections:
     image: /img/philo.jpg
     link: /about
     title: Philosophy
-  - description: 'Offering programs for infants, toddlers, preschool and school-age.'
-    image: /img/sections.jpg
+  - description: >-
+      We provide very high quality early learning and child care experiences for
+      all of the children and families who participate in our program. Priority
+      is given to the children of RBA employees, however where possible, we
+      offer spaces to a limited number of community children as well.
+    image: /img/wrting.jpg
     link: sasadasd.asds
     title: Programs
   - description: >-
       We welcome you to schedule a personal tour of our facility, staff and
-      classrooms, join our waiting list and / or inquire now about enrollment.
-    image: /img/sections.jpg
+      classrooms, join our waiting list and / or inquire now about enrollment. 
+    image: /img/family.jpg
     link: sasadasd.asds
     title: Enrollment
 ---
