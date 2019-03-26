@@ -17,7 +17,7 @@
       opacity: .8
   .window-centered
     position: relative
-    z-index: 2
+    z-index: 3
   h3
     color: white
     font-size: 28px
@@ -27,12 +27,15 @@
     color: white
     font-size: 48px
     padding: 0 40px 0 20px
+  a
+    &:hover
+      text-decoration: none
+      h2
+        background: linear-gradient(90deg, $blue1, $orange1, $orange2)
+        color: white
   p
     color: white
     width: 100%
     padding: 20px 0
     @media only screen and (min-width: 790px)
       width: 40%
-
-.BrainhubCarousel__dots
-  border: 1px solid red

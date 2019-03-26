@@ -16,6 +16,7 @@ export const IndexPageTemplate = ({
     <Hero items={hero} />
     <ProgramsDisplay items={programs} />
     <SectionsList items={sections} />
+    <Map />
   </Fragment>
 )
 
@@ -31,7 +32,6 @@ const IndexPage = ({ data }) => {
           programs: frontmatter.programs
         }}
       />
-      <Map />
     </Layout>
   )
 }
