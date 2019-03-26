@@ -44,14 +44,15 @@ export default class Index extends React.Component {
               <h2>9500 Glenlyon Parkway</h2>
               <h3>Burnaby, BC V5J 0C6</h3>
               <h4>Monday to Friday, 8AM to 6PM</h4>
-{/* Telephone number: 703-642-5911
-Fax number: 703-642-5539
-E-mail address: LittleRiverDS@gmail.com
-Center Operation Hours:
-Monday to Friday
-7 AM to 6 PM */}
+              <br />
             </div>
-            <Map />
+            <Map
+              googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4abwXM9G_iVwESpU_QprIKOkRAgwGgbU&v=3.exp&libraries=geometry,drawing,places"
+              loadingElement={<div style={{ height: `100%` }} />}
+              containerElement={<div style={{ height: `400px` }} />}
+              mapElement={<div style={{ height: `100%` }} />}
+            />
+            <br />
           </aside>
           <form
             name="contact"

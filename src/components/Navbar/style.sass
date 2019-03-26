@@ -41,6 +41,8 @@
     nav
       height: 100%
       font-size: 14px
+    li a
+        color: white
   .top nav, .bottom
     display: flex
     flex: 1 1 auto
@@ -80,14 +82,13 @@
     width: 100%
     padding: 5%
     box-sizing: border-box
-    @media only screen and (min-width: 790px)
-      padding: 10px
     a
       white-space: pre
       color: white
-  .menu li:hover
-    ul
-      display: block
+    @media only screen and (min-width: 790px)
+      padding: 10px
+  .menu li:hover ul
+    display: block
 .spacing-bottom
   margin-bottom: 115px
   @media only screen and (min-width: 790px)
