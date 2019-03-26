@@ -77,9 +77,10 @@ collections:
           - {label: Mission, name: mission, widget: text}
           - {label: Programs, name: programs, widget: list, fields: [
               {label: Title, name: title, widget: string},
+              {label: Description, name: description, widget: text},
               {label: Subtitle, name: subtitle, widget: string},
               {label: Link, name: link, widget: string},
-              {label: Color, name: color, widget: text}
+              {label: Color, name: color, widget: string}
             ]}
           - {label: Sections, name: sections, widget: list, fields: [
               {label: Title, name: title, widget: string},
