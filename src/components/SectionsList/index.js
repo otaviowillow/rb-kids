@@ -11,7 +11,9 @@ const SectionsList = ({
           <p>{section.description}</p>
           <a href={section.link}>More</a>
         </div>
-        <img src={section.image.childImageSharp ? section.image.childImageSharp.fluid.src : section.image} alt="Section background" />
+        {section.image ? (
+          <img src={section.image.childImageSharp ? section.image.childImageSharp.fluid.src : section.image} alt="Section background" />
+        ) : null}
       </li>
     ))}
   </ul>

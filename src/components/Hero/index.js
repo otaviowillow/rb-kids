@@ -24,7 +24,7 @@ class Hero extends Component {
           value={this.state.value}
           onChange={onChange}>
           {items.map((item, i) => (
-            <div key={i} className="wrapper" style={{ backgroundImage: `url(${image(item)})` }}>
+            <div key={i} className="wrapper" style={{ backgroundImage: `url(${item.image ? image(item) : null})` }}>
               <div className="window-centered">
                 <h3>{item.subtitle}</h3>
                 <h2>{item.title}</h2>
