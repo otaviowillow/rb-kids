@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
@@ -12,25 +12,27 @@ export const IndexPageTemplate = ({
   programs,
   sections
 }) => (
-  <Layout>
+  <Fragment>
     <Hero items={hero} />
     <ProgramsDisplay items={programs} />
     <SectionsList items={sections} />
-    <Map />
-  </Layout>
+  </Fragment>
 )
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
   return (
-    <IndexPageTemplate
-      hero={frontmatter.hero}
-      sections={frontmatter.sections}
-      programs={{
-        mission: frontmatter.mission,
-        programs: frontmatter.programs
-      }}
-    />
+    <Layout>
+      <IndexPageTemplate
+        hero={frontmatter.hero}
+        sections={frontmatter.sections}
+        programs={{
+          mission: frontmatter.mission,
+          programs: frontmatter.programs
+        }}
+      />
+      <Map />
+    </Layout>
   )
 }
 
