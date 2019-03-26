@@ -11,7 +11,7 @@ description: >-
   and what they would like to explore. Our preplanned outdoor activities will
   include a wide variety of experiences such as, art, music, story time, mud
   play, scavenger hunts and quiet observation times.
-background: /img/poakr.jpg
+background: /img/vancouver-outdoors.jpg
 ---
 We will be integrating a daily scheduled outdoor learning program into our regular childcare classrooms. The program will allow for smaller groups from each room to explore our surroundings in the parks and trails. It will be approximately one hour in the morning, followed by indoor activities and exploration of our nature museums and other activities in the afternoons. We follow the child and let them lead us in the direction of what interests them and what they would like to explore. Our preplanned outdoor activities will include a wide variety of experiences such as, art, music, story time, mud play, scavenger hunts and quiet observation times.
 
