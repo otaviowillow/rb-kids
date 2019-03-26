@@ -9,7 +9,7 @@ import ProgramsPreview from './preview-templates/ProgramsPreview'
 import EmployeesPreview from './preview-templates/EmployeesPreview'
 
 CMS.registerPreviewStyle(styles.toString(), { raw: true })
-CMS.registerPreviewTemplate('index', IndexPagePreview)
+CMS.registerPreviewTemplate('index-page', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('photo-gallery', PhotoGalleryPreview)
 CMS.registerPreviewTemplate('latest-updates', LatestUpdatesPreview)
