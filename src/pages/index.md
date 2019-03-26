@@ -5,49 +5,51 @@ hero:
       We focus on a whole-child approach to early learning supporting social,
       emotional and physical growth.
     image: /img/Happy_Children_Playing_Kids.jpg
+    link: /sdad
     subtitle: Our goal is to
     title: Enrich Minds
-    link: /sdad
 mission: >-
   At ABC Daycare our mission is to positively impact the lives of children. We
   take great pride in the care we provide and are privileged to be part of so
   many families’ lives.
 programs:
   - color: '#e96d17'
+    description: >-
+      We believe that all children are unique and no two children learn in the
+      same way.
     link: asd.asd
     subtitle: Programs for
     title: Infants
-    description: >-
-        We believe that all children are unique and no two children learn in the
-        same way.
   - color: '#b34538'
+    description: >-
+      We believe that all children are unique and no two children learn in the
+      same way.
     link: asd.asdaa
     subtitle: Programs for
     title: Toddlers
-    description: >-
-        We believe that all children are unique and no two children learn in the
-        same way.
   - color: '#108992'
+    description: >-
+      We believe that all children are unique and no two children learn in the
+      same way.
     link: asd.asd
     subtitle: Programs for
     title: Preschool
-    description: >-
-        We believe that all children are unique and no two children learn in the
-        same way.
   - color: '#234a69'
+    description: >-
+      We believe that all children are unique and no two children learn in the
+      same way.
     link: asd.asd
     subtitle: Programs for
     title: School-Age
-    description: >-
-        We believe that all children are unique and no two children learn in the
-        same way.
 sections:
   - description: >-
-      We believe that all children are unique and no two children learn in the
-      same way.
-    image: /img/sections.jpg
-    link: sasadasd.asds
-    title: Curriculum
+      We are a combined philosophy (Montessori, Reggio & Traditional ECE)
+      corporate child care facility. Our state of the art facility and care team
+      offer a child centered, nurturing environment for infants, toddlers,
+      preschoolers and school age children.
+    image: /img/philo.jpg
+    link: /about
+    title: Philosophy
   - description: 'Offering programs for infants, toddlers, preschool and school-age.'
     image: /img/sections.jpg
     link: sasadasd.asds
@@ -59,3 +61,4 @@ sections:
     link: sasadasd.asds
     title: Enrollment
 ---
+
