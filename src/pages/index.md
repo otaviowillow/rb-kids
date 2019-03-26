@@ -16,18 +16,30 @@ programs:
     link: asd.asd
     subtitle: Programs for
     title: Infants
+    description: >-
+        We believe that all children are unique and no two children learn in the
+        same way.
   - color: '#b34538'
     link: asd.asdaa
     subtitle: Programs for
     title: Toddlers
+    description: >-
+        We believe that all children are unique and no two children learn in the
+        same way.
   - color: '#108992'
     link: asd.asd
     subtitle: Programs for
     title: Preschool
+    description: >-
+        We believe that all children are unique and no two children learn in the
+        same way.
   - color: '#234a69'
     link: asd.asd
     subtitle: Programs for
     title: School-Age
+    description: >-
+        We believe that all children are unique and no two children learn in the
+        same way.
 sections:
   - description: >-
       We believe that all children are unique and no two children learn in the
@@ -46,4 +58,3 @@ sections:
     link: sasadasd.asds
     title: Enrollment
 ---
-
