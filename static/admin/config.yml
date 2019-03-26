@@ -72,13 +72,14 @@ collections:
               {label: Title, name: title, widget: string},
               {label: Subtitle, name: subtitle, widget: string},
               {label: Description, name: description, widget: text},
+              {label: Link, name: link, widget: string},
               {label: Image, name: image, widget: image}
             ]}
           - {label: Mission, name: mission, widget: text}
           - {label: Programs, name: programs, widget: list, fields: [
+              {label: Subtitle, name: subtitle, widget: string},
               {label: Title, name: title, widget: string},
               {label: Description, name: description, widget: text},
-              {label: Subtitle, name: subtitle, widget: string},
               {label: Link, name: link, widget: string},
               {label: Color, name: color, widget: string}
             ]}

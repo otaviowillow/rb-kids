@@ -46,6 +46,7 @@ query IndexPageTemplate {
           title
           subtitle
           description
+          link
           image {
             childImageSharp {
               fluid(maxWidth: 2048, quality: 100) {

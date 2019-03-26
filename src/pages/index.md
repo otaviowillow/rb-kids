@@ -7,6 +7,7 @@ hero:
     image: /img/Happy_Children_Playing_Kids.jpg
     subtitle: Our goal is to
     title: Enrich Minds
+    link: /sdad
 mission: >-
   At ABC Daycare our mission is to positively impact the lives of children. We
   take great pride in the care we provide and are privileged to be part of so

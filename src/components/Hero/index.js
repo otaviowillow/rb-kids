@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'gatsby'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
 import './carousel.css'
 
@@ -26,9 +27,11 @@ class Hero extends Component {
           {items.map((item, i) => (
             <div key={i} className="wrapper" style={{ backgroundImage: `url(${item.image ? image(item) : null})` }}>
               <div className="window-centered">
-                <h3>{item.subtitle}</h3>
-                <h2>{item.title}</h2>
-                <p>{item.description}</p>
+                <Link to={item.link}>
+                  <h3>{item.subtitle}</h3>
+                  <h2>{item.title}</h2>
+                  <p>{item.description}</p>
+                </Link>
               </div>
             </div>
           ))}
