@@ -1,7 +1,7 @@
 import React from 'react'
 import { IndexPageTemplate } from '../../templates/index-page'
 
-const IndexPagePreview = ({ entry, getIn }) => {
+const IndexPagePreview = ({ entry }) => {
   const entryHero = entry.getIn(['data', 'hero'])
   const hero = entryHero ? entryHero.toJS() : []
 
@@ -10,6 +10,8 @@ const IndexPagePreview = ({ entry, getIn }) => {
 
   const entryPrograms = entry.getIn(['data', 'programs'])
   const programs = entryPrograms ? entryPrograms.toJS() : []
+
+  console.log(hero);
 
   return (
     <IndexPageTemplate
