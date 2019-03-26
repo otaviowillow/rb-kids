@@ -1,7 +1,7 @@
 ---
 templateKey: latest-updates
 title: Closed Tuesday February 12
-background: /img/kindergarten.jpg
+background: /img/snowman.jpg
 date: 2019-02-13T20:38:23.668Z
 author: Christine Clements
 ---
