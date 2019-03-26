@@ -1,6 +1,7 @@
 import React from 'react'
+import Moment from 'react-moment'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCalendar } from '@fortawesome/free-solid-svg-icons'
+import { faCalendar, faAt } from '@fortawesome/free-solid-svg-icons'
 
 const TemplateHeader = ({
   background,
@@ -12,8 +13,8 @@ const TemplateHeader = ({
     <div className="window-centered">
       <h2>{title}</h2>
       <ul className="details-card">
-        {date ? <li><FontAwesomeIcon icon={faCalendar} /> {date}</li> : null}
-        {author ? <li>{author}</li> : null}
+        {author ? <li><FontAwesomeIcon icon={faAt} /> {author}</li> : null}
+        {date ? <li><FontAwesomeIcon icon={faCalendar} /> <Moment format="D MMM YYYY">{date}</Moment></li> : null}
       </ul>
     </div>
   </header>

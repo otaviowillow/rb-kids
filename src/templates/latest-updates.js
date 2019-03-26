@@ -7,6 +7,8 @@ import TemplateHeader from '../components/TemplateHeader'
 
 export const LatestUpdatesTemplate = ({
   title,
+  date,
+  author,
   description,
   background,
   content,
@@ -16,7 +18,12 @@ export const LatestUpdatesTemplate = ({
 
   return (
     <div className="latest-updates">
-      <TemplateHeader title={title} background={background} />
+      <TemplateHeader
+        background={background}
+        title={title}
+        date={date}
+        author={author}
+      />
       <div className="window-centered content">
         <PageContent className="content" content={content} />
       </div>
@@ -31,6 +38,8 @@ const LatestUpdates = ({ data }) => {
     <Layout>
       <LatestUpdatesTemplate
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
+        author={post.frontmatter.author}
         background={post.frontmatter.background.childImageSharp ? post.frontmatter.background.childImageSharp.fluid.src : post.frontmatter.background}
         content={post.html}
         contentComponent={HTMLContent}

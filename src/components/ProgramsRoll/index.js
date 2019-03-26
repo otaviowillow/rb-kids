@@ -6,7 +6,6 @@ class ProgramsRoll extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
-    console.log(posts);
     return (
       <ul className="programs-roll window-centered padding">
       {posts && (posts.map(({ node: post }, i) => (
