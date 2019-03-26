@@ -2,13 +2,13 @@ import React from 'react'
 import { IndexPageTemplate } from '../../templates/index-page'
 
 const IndexPagePreview = ({ entry, getAsset }) => {
-  const entryHero = entry.getIn(['data', 'intro', 'hero'])
+  const entryHero = entry.getIn(['data', 'hero'])
   const hero = entryHero ? entryHero.toJS() : []
 
-  const entrySections = entry.getIn(['data', 'intro', 'sections'])
+  const entrySections = entry.getIn(['data', 'sections'])
   const sections = entrySections ? entrySections.toJS() : []
 
-  const entryPrograms = entry.getIn(['data', 'intro', 'programs'])
+  const entryPrograms = entry.getIn(['data', 'programs'])
   const programs = entryPrograms ? entryPrograms.toJS() : []
 
   return (

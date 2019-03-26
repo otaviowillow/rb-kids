@@ -5,7 +5,9 @@
     display: inline-block
     vertical-align: top
   .image
-    width: 25%
+    width: 100%
+    @media only screen and (min-width: 790px)
+      width: 25%
   figure
     position: relative
     padding-top: 56.25%
@@ -18,9 +20,11 @@
       transform: translate(-50%, -50%)
       min-height: 100%
   aside
-    width: 75%
-    padding: 0 0 0 20px
+    width: 100%
     box-sizing: border-box
+    @media only screen and (min-width: 790px)
+      width: 75%
+      padding: 0 0 0 20px
   li
     padding: 20px 0
     border-bottom: 1px solid #ccc
