@@ -15,24 +15,24 @@ mission: >-
 programs:
   - color: '#e96d17'
     description: Connecting with children in a way that respects their needs.
-    link: asd.asd
+    link: /programs/infant-toddler
     subtitle: Programs for
     title: Infants
   - color: '#b34538'
     description: >-
       We offer the child the best of the best to meet their unique learning
       style
-    link: asd.asdaa
+    link: /programs/pre-school-kindergarten
     subtitle: Learning Program
     title: Preschool
   - color: '#108992'
     description: 'Connecting with nature as a tool for growth and learning '
-    link: asd.asd
+    link: /programs/outdoor-learning-program
     subtitle: Programs for
     title: Outside
   - color: '#234a69'
     description: Allowing kids to become independent while socializing with new friends
-    link: asd.asd
+    link: /programs/rbkids-summer-camp
     subtitle: Programs for
     title: Summer
 sections:
