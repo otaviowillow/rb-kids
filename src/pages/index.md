@@ -2,12 +2,19 @@
 templateKey: index-page
 hero:
   - description: >-
-      We focus on a whole-child approach to early learning supporting social,
-      emotional and physical growth.
-    image: /img/Happy_Children_Playing_Kids.jpg
-    link: /sdad
-    subtitle: Our goal is to
-    title: Enrich Minds
+      Check here often for news regarding events for our children, including
+      important updates
+    image: /img/use.jpg
+    link: /about
+    subtitle: Welcome to our
+    title: New Website
+  - description: >-
+      However, where possible, we offer spaces to a limited number of community
+      children as well.
+    image: /img/new-home.jpg
+    link: /enrollment
+    subtitle: We prioritize
+    title: RBA Employees
 mission: >-
   At ABC Daycare our mission is to positively impact the lives of children. We
   take great pride in the care we provide and are privileged to be part of so
@@ -55,3 +62,4 @@ sections:
     link: /enrollment
     title: Enrollment
 ---
+
