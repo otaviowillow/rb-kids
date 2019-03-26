@@ -13,6 +13,8 @@ class Hero extends Component {
   render() {
     const { items } = this.props
     const onChange = value => this.setState({ value });
+    const image = item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
+    
     return (
       <div className="hero">
         <Carousel
@@ -21,7 +23,7 @@ class Hero extends Component {
           value={this.state.value}
           onChange={onChange}>
           {items.map((item, i) => (
-            <div key={i} className="wrapper" style={{ backgroundImage: `url(${item.image.childImageSharp.fluid.src})` }}>
+            <div key={i} className="wrapper" style={{ backgroundImage: `url(${image})` }}>
               <div className="window-centered">
                 <h3>{item.subtitle}</h3>
                 <h2>{item.title}</h2>
