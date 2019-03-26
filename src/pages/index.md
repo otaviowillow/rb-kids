@@ -14,53 +14,43 @@ mission: >-
   many families’ lives.
 programs:
   - color: '#e96d17'
-    description: >-
-      We believe that all children are unique and no two children learn in the
-      same way.
+    description: Connecting with children in a way that respects their needs.
     link: asd.asd
     subtitle: Programs for
     title: Infants
   - color: '#b34538'
     description: >-
-      We believe that all children are unique and no two children learn in the
-      same way.
+      We offer the child the best of the best to meet their unique learning
+      style
     link: asd.asdaa
-    subtitle: Programs for
-    title: Toddlers
-  - color: '#108992'
-    description: >-
-      We believe that all children are unique and no two children learn in the
-      same way.
-    link: asd.asd
-    subtitle: Programs for
+    subtitle: Learning Program
     title: Preschool
-  - color: '#234a69'
-    description: >-
-      We believe that all children are unique and no two children learn in the
-      same way.
+  - color: '#108992'
+    description: 'Connecting with nature as a tool for growth and learning '
     link: asd.asd
     subtitle: Programs for
-    title: School-Age
+    title: Outside
+  - color: '#234a69'
+    description: Allowing kids to become independent while socializing with new friends
+    link: asd.asd
+    subtitle: Programs for
+    title: Summer
 sections:
   - description: >-
       We are a combined philosophy (Montessori, Reggio & Traditional ECE)
-      corporate child care facility. Our state of the art facility and care team
-      offer a child centered, nurturing environment for infants, toddlers,
-      preschoolers and school age children.
+      corporate child care facility.
     image: /img/philo.jpg
     link: /about
     title: Philosophy
   - description: >-
       We provide very high quality early learning and child care experiences for
-      all of the children and families who participate in our program. Priority
-      is given to the children of RBA employees, however where possible, we
-      offer spaces to a limited number of community children as well.
+      all of the children and families who participate in our program. 
     image: /img/wrting.jpg
     link: sasadasd.asds
     title: Programs
   - description: >-
-      We welcome you to schedule a personal tour of our facility, staff and
-      classrooms, join our waiting list and / or inquire now about enrollment. 
+      We welcome you to schedule a personal tour of our facility and classrooms,
+      join our waiting list and inquire now about enrollment. 
     image: /img/family.jpg
     link: sasadasd.asds
     title: Enrollment
