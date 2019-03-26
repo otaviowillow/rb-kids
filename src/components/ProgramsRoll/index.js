@@ -13,7 +13,7 @@ class ProgramsRoll extends React.Component {
             <Link to={post.fields.slug}>
               <aside className="image">
                 <figure>
-                  <img src={post.frontmatter.background.childImageSharp.fluid.src} />
+                  <img src={post.frontmatter.background.childImageSharp.fluid.src} alt="background" />
                 </figure>
               </aside>
               <aside>

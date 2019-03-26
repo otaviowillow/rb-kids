@@ -14,7 +14,7 @@ const EmployeeCard = ({
 }) => (
   <li className="employee-card">
     <figure className="avatar">
-      <img src={avatar} />
+      <img src={avatar} alt="avatar" />
     </figure>
     <aside>
       <h3>{role}</h3>

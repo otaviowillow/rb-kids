@@ -11,7 +11,7 @@ class LatestUpdatesRoll extends React.Component {
       {posts && (posts.map(({ node: post }) => (
           <li>
             <Link to={post.fields.slug}>
-              <img src={post.frontmatter.background.childImageSharp.fluid.src} />
+              <img src={post.frontmatter.background.childImageSharp.fluid.src} alt="background" />
               <aside>
                 <h2>{post.frontmatter.title}</h2>
                 <p>{post.excerpt}</p>
