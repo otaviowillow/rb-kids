@@ -9,6 +9,7 @@ collections:
   - name: "employees"
     label: "Employees"
     folder: "src/pages/employees"
+    identifier_field: name
     create: true
     slug: "{{name}}"
     fields:
