@@ -9,9 +9,7 @@ hero:
     subtitle: Our goal is to
     title: Enrich Minds
 mission: >-
-  At ABC Daycare our mission is to positively impact the lives of children. We
-  take great pride in the care we provide and are privileged to be part of so
-  many families’ lives.
+  We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate child care facility. Our state of the art facility and care team offer a child centred, nurturing environment for infants, toddlers, preschoolers and school age children.
 programs:
   - color: '#e96d17'
     description: Connecting with children in a way that respects their needs.

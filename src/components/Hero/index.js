@@ -20,7 +20,7 @@ class Hero extends Component {
     return (
       <div className="hero">
         <Carousel
-          autoPlay='5000'
+          autoPlay='10000'
           infinite
           value={this.state.value}
           onChange={onChange}>
