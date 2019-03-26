@@ -58,7 +58,7 @@ collections:
         widget: "relation"
         collection: "employees"
         searchFields: ["name"]
-        valueField: ["name"]
+        valueField: "name"
         displayFields: ["name"]
   - name: "pages"
     label: "Pages"

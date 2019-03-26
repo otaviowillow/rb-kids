@@ -49,6 +49,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        date
+        author
         background {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {

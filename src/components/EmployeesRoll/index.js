@@ -39,7 +39,7 @@ export default () => (
     query={graphql`
     query EmployeesRollQuery {
       allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] },
+        sort: { order: DESC, fields: [frontmatter___name] },
         filter: { frontmatter: { templateKey: { eq: "employees" } }}
       ) {
         edges {
