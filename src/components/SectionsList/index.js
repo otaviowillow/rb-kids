@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 const SectionsList = ({
   items
@@ -9,7 +10,7 @@ const SectionsList = ({
         <div className="section">
           <h2>{section.title}</h2>
           <p>{section.description}</p>
-          <a href={section.link}>More</a>
+          <Link to={section.link}>More</Link>
         </div>
         {section.image ? (
           <img src={section.image.childImageSharp ? section.image.childImageSharp.fluid.src : section.image} alt="Section background" />

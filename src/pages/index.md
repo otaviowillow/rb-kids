@@ -44,15 +44,14 @@ sections:
     title: Philosophy
   - description: >-
       We provide very high quality early learning and child care experiences for
-      all of the children and families who participate in our program. 
+      all of the children and families who participate in our program.
     image: /img/wrting.jpg
-    link: sasadasd.asds
+    link: /programs
     title: Programs
   - description: >-
       We welcome you to schedule a personal tour of our facility and classrooms,
-      join our waiting list and inquire now about enrollment. 
+      join our waiting list and inquire now about enrollment.
     image: /img/family.jpg
-    link: sasadasd.asds
+    link: /enrollment
     title: Enrollment
 ---
-

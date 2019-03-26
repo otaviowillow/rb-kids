@@ -23,6 +23,13 @@
     display: inline-block
     padding: 0 10px
     color: white
+    width: 100%
+    padding: 5%
+    padding-bottom: 0
+    box-sizing: border-box
+    @media only screen and (min-width: 790px)
+      width: auto
+      padding: 0 10px
   .top
     display: none
     background: $blue2
@@ -42,21 +49,39 @@
     align-items: center
   .menu
     display: none
-    @media only screen and (min-width: 790px)
-      display: flex
-  .menu ul
-    display: none
-    position: absolute
-    top: 100%
+    position: fixed
+    top: 0
     left: 0
+    background: white
+    height: 100%
+    width: 80%
+    z-index: 9
+    &.show
+      display: block
+    @media only screen and (min-width: 790px)
+      position: static
+      display: flex
+      height: auto
+      width: auto
+  .menu ul
+    display: block
     background: $orange1
+    margin: 2.5% 0 0 0
+    @media only screen and (min-width: 790px)
+      display: none
+      position: absolute
+      top: 100%
+      left: 0
+      margin: 0
   .menu li
     position: relative
   .menu ul li
     display: inline-block
     width: 100%
-    padding: 10px
+    padding: 5%
     box-sizing: border-box
+    @media only screen and (min-width: 790px)
+      padding: 10px
     a
       white-space: pre
       color: white
@@ -67,3 +92,17 @@
   margin-bottom: 115px
   @media only screen and (min-width: 790px)
     margin-bottom: 135px
+.close-black
+  display: none
+  background: black
+  position: fixed
+  top: 0
+  right: 0
+  width: 20%
+  height: 100%
+  opacity: .8
+  z-index: 10
+  &.show
+    display: block
+  @media only screen and (min-width: 790px)
+    display: none
