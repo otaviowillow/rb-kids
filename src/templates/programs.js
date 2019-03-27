@@ -17,8 +17,8 @@ export const ProgramsTemplate = ({
   return (
     <div className="programs">
       <TemplateHeader title={title} background={background} />
-      <div className="window-centered content">
-        <PageContent className="content" content={content} />
+      <div className="window-centered update-content">
+        <PageContent content={content} />
       </div>
     </div>
   )

@@ -11,8 +11,8 @@ export const AboutPageTemplate = ({
   const PageContent = contentComponent || Content
 
   return (
-    <section className="window-centered">
-      <PageContent className="content" content={content} />
+    <section className="window-centered content">
+      <PageContent content={content} />
     </section>
   )
 }

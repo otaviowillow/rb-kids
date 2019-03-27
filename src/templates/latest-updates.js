@@ -24,8 +24,8 @@ export const LatestUpdatesTemplate = ({
         date={date}
         author={author}
       />
-      <div className="window-centered content">
-        <PageContent className="content" content={content} />
+      <div className="window-centered">
+        <PageContent content={content} />
       </div>
     </div>
   )

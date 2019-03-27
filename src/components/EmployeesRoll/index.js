@@ -9,7 +9,7 @@ class EmployeesRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="latest-updates-roll window-centered padding">
+      <div className="employees-roll window-centered content">
         <h2>RB Kids Team</h2>
         <p>All staff at RB Kids have their Early Childhood  Education certification (or are currently enrolled in training) and experience in the early learning and care field. Additionally, many members also have Infant-Toddler, Special Needs or Montessori certification. They meet requirements outlined in the Child Care Facility Licensing Regulations, including having first aid certification and current criminal record clearance. Our staff are encouraged to continue their professional development and to be members of professional organizations, such as the Early Child hood Educators of BC, the BC Montessori Association and other relevant associations in the field of early learning and care. These opportunities connect our team with a community of colleagues and a wealth of information and research in the field.</p>
         <br />

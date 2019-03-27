@@ -13,12 +13,14 @@ const EmployeeCard = ({
   body
 }) => (
   <li className="employee-card">
-    <figure className="avatar">
-      <img src={avatar} alt="avatar" />
-    </figure>
+    <div className="avatar-wrapper">
+      <figure className="avatar">
+        <img src={avatar} alt="avatar" />
+      </figure>
+    </div>
     <aside>
-      <h3>{role}</h3>
-      <h4>{name}</h4>
+      <h3>{name}</h3>
+      <h4>{role}</h4>
       <ul className="details-card">
         {email ? <li><FontAwesomeIcon icon={faEnvelope} /> {email}</li> : null}
         {phone ? <li><FontAwesomeIcon icon={faPhone} /> {phone}</li> : null}
