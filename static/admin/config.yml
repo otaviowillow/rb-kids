@@ -52,9 +52,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: Files, name: files, widget: list, fields: [
-        - label: "PDF"
-          name: "manual_pdf"
-          widget: "file"
+        - label: "PDF",
+          name: "manual_pdf",
+          widget: "file",
           media_library:
             config:
               multiple: true
