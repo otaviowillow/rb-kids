@@ -3,11 +3,12 @@ import { graphql } from 'gatsby'
 
 import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
+import Pdfs from '../components/Pdfs'
 
 export const EnrollmentTemplate = ({
   title,
-  description,
-  background,
+  files,
+  fileDescription,
   content,
   contentComponent
 }) => {
@@ -16,7 +17,8 @@ export const EnrollmentTemplate = ({
   return (
     <div className="enrollment">
       <div className="window-centered content">
-        <PageContent content={content} />
+        <PageContent className="aside" content={content} />
+        <Pdfs files={files} fileDescription={fileDescription} />
       </div>
     </div>
   )
@@ -29,6 +31,8 @@ const Enrollment = ({ data }) => {
     <Layout>
       <EnrollmentTemplate
         title={post.frontmatter.title}
+        fileDescription={post.frontmatter.fileDescription}
+        files={post.frontmatter.files}
         content={post.html}
         contentComponent={HTMLContent}
       />
@@ -45,7 +49,14 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        description
+        fileDescription
+        files {
+          name
+          pdf {
+            absolutePath
+            size
+          }
+        }
       }
     }
   }

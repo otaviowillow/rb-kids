@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
@@ -20,7 +20,7 @@ const TemplateWrapper = ({ children }) => (
       }
     `}
     render={data => (
-      <div>
+      <Fragment>
         <Helmet>
           <html lang="en" />
           <title>{data.site.siteMetadata.title}</title>
@@ -62,7 +62,7 @@ const TemplateWrapper = ({ children }) => (
         <Navbar />
         {children}
         <Footer />
-      </div>
+      </Fragment>
     )}
   />
 )

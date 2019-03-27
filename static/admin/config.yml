@@ -50,7 +50,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "enrollment"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "File Description", name: "fileDescription", widget: "text"}
       - {label: Files, name: files, widget: list, fields: [
           {label: "File Name", name: "name", widget: "string"},
           {label: "PDF", name: "pdf", widget: "file"}

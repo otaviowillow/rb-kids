@@ -15,6 +15,7 @@ $blue2: #003a70
 @import "/LatestUpdatesRoll/style.sass"
 @import "/EmployeeCard/style.sass"
 @import "/EmployeesRoll/style.sass"
+@import "/Pdfs/style.sass"
 @import "/Map/style.sass"
 @import "/Footer/style.sass"
 
@@ -64,19 +65,6 @@ img
   width: auto
   max-width: 100%
 
-.content
-  min-height: 200px
-  box-sizing: border-box
-  h1, h2, p, li, img
-    margin: 0 0 10px 0
-  ul, ol
-    padding: 0 20px
-    box-sizing: border-box
-  ul
-    list-style: disc
-  ol
-    list-style: georgian
-
 .window-centered
   float: none
   max-width: 1400px
@@ -86,11 +74,22 @@ img
   box-sizing: border-box
 
 .content
+  min-height: 200px
+  box-sizing: border-box
   margin: 130px auto 40px auto
   @media only screen and (min-width: 790px)
     margin: 180px auto 40px auto
   h2, h4, h5
     margin: 15px 0
+  h1, h2, p, li, img
+    margin: 0 0 10px 0
+  ul, ol
+    padding: 0 20px
+    box-sizing: border-box
+  ul
+    list-style: disc
+  ol
+    list-style: decimal
 
 .update-content
   margin: 30px auto
@@ -110,3 +109,14 @@ img
     left: 50%
     width: 100%
     transform: translate(-50%, -50%)
+
+.enrollment
+  .content
+    display: flex
+    flex-direction: column
+    @media only screen and (min-width: 790px)
+      flex-direction: row
+  .aside
+    flex: 1 1 auto
+  .pdfs
+    flex: 3 1 auto
