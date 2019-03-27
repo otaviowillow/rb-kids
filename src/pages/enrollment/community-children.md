@@ -2,7 +2,7 @@
 templateKey: enrollment
 title: Community Children
 fileDescription: >-
-  Please fill only the Pre-Restration forms. Fill all other once you have
+  Please, only fill the Pre-Registration forms. Fill all others once you have
   received confirmation that your child has a space in the RB Child Care
   Program.
 files:
