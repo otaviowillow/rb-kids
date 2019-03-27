@@ -1,5 +1,7 @@
 ---
-templateKey: enrollment-page
+templateKey: enrollment
 title: About RBKids
-community:
+description: Yada Yada
 ---
+
+Yada Yada
