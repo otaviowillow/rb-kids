@@ -52,7 +52,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: Files, name: files, widget: list, fields: [
-          {label: "PDF", name: "manual_pdf", widget: "file"}
+          {label: "File Name", name: "name", widget: "string"},
+          {label: "PDF", name: "pdf", widget: "file"}
         ]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "latest-updates"
