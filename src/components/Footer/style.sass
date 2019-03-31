@@ -4,15 +4,22 @@
   height: 200px
   width: 100%
   box-sizing: border-box
-  justify-content: space-around
-  align-items: flex-start
+  justify-content: center
+  align-items: center
   flex-flow: column
   @media only screen and (min-width: 790px)
     flex-flow: row
     padding: 60px
     align-items: center
+    justify-content: space-around
   figure, span
     flex: 1 1 auto
+  figure
+    display: flex
+    justify-content: flex-end
+    flex-direction: column
+    @media only screen and (min-width: 790px)
+      display: block
   img
     width: 200px
     margin: 0 0 20px 0
