@@ -39,7 +39,7 @@ export default () => (
     query={graphql`
     query EmployeesRollQuery {
       allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___name] },
+        sort: { order: DESC, fields: [frontmatter___sort] },
         filter: { frontmatter: { templateKey: { eq: "employees" } }}
       ) {
         edges {
@@ -55,6 +55,7 @@ export default () => (
               role
               phone
               email
+              sort
               avatar {
                 childImageSharp {
                   fluid(maxWidth: 600, quality: 100) {
