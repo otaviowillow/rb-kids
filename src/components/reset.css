@@ -28,6 +28,11 @@ body {
 ol, ul {
 	list-style: none;
 }
+ol {
+	list-style: decimal;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
 blockquote, q {
 	quotes: none;
 }
