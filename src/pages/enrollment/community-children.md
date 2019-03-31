@@ -2,20 +2,10 @@
 templateKey: enrollment
 title: Community Children
 fileDescription: >-
-  Please, only fill the Pre-Registration forms. Fill all others once you have
-  received confirmation that your child has a space in the RB Child Care
-  Program.
+  Pre-Registration form
 files:
   - name: Pre-registration Form
     pdf: /img/cc-pre-registration-package-non-rba-kr-final.pdf
-  - name: RBA Child Care Enrollment Form
-    pdf: /img/rba-child-care-enrollment-forms.pdf
-  - name: RBA Additional Consents Form
-    pdf: /img/cc-parent-enrollment-additional-consents.pdf
-  - name: RBA Emergency Card
-    pdf: /img/emergency-consent-card.pdf
-  - name: RBA Enrollment Agreement
-    pdf: /img/cc-parent-enrollment-agreement.pdf
 ---
 If you are interested in applying to our Child Care Program waiting list a pre-registration must be completed in order for you child(ren) to be placed on the waitlist. All completed Pre-Registration Packages for the child care can either be dropped off at RBA reception or mailed to RB Kids Child Care 9500 Glenlyon Parkway, Burnaby BC v5j 0c6.
 

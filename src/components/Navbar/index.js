@@ -46,9 +46,10 @@ class NavBar extends Component {
                   <li><Link to='/enrollment/community-children'>Community Children</Link></li>
                 </ul>
               </li>
-              <li><Link to='/policies'>Policies & Parent Information</Link></li>
               <li><Link to='/photo-gallery'>Photo Gallery</Link></li>
+              <li><Link to='/policies'>Policies & Parent Information</Link></li>
               <li><Link to='/programs'>Programs</Link></li>
+
               <li><Link to='/contact'>Contact us</Link></li>
             </ul>
             <h3 onClick={() => onChange()}><FontAwesomeIcon icon={faBars} /></h3>
