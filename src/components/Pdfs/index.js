@@ -13,7 +13,7 @@ const Pdfs = ({
     <ul>
       {files.map((file, i) => (
         <li key={i}>
-          <a href={file.pdf.absolutePath}>
+          <a href={file.pdf.publicURL}>
             <FontAwesomeIcon icon={faFilePdf} className="icon" /> {file.name} ({bytes(file.pdf.size)})
           </a>
         </li>

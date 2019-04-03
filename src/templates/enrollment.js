@@ -53,7 +53,7 @@ export const pageQuery = graphql`
         files {
           name
           pdf {
-            absolutePath
+            publicURL
             size
           }
         }
