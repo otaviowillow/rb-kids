@@ -2,6 +2,7 @@
 templateKey: policies-page
 title: Parent Information & Program Policies
 ---
+# RB Kids Policies and Procedures
 
 ## General Information
 
@@ -25,7 +26,7 @@ supported through the provision of an environment that truly respects the needs 
 * Encourages independence from the beginning
 * Shares, cares, communicates and celebrates diversity
 * Supports early learning through play, creative exploration and enhanced educational
-opportunities.
+  opportunities.
 
 ### Our team
 
@@ -59,6 +60,7 @@ Thursday/Friday). Please note we do not offer mid-week spaces. We provide child 
 years
 
 We offer four classrooms that are licensed as follows:
+
 * Group Child Care – Under 36 months – 12 spaces
 * Group Child Care – Under 36 months – 12 spaces
 * Group Child Care – Under 36 months – 10 spaces
@@ -78,6 +80,7 @@ enable them to take risks. The development of outdoor programming is innovative 
 Being exposed to music in the early years stimulates children’s brain development. We provide a joyful, hands on and fun music
 time for our children to further develop their social, emotional, cognitive and language skills.
 We offer the following in our Music Program:
+
 * Music & Movement
 * Group Piano for 3 – 5-year old’s
 * Music Appreciation – Guests come in and showcase their musical talents (e.g. guitar, violin, drums & Chinese flute)
@@ -89,6 +92,7 @@ concentration and focus, self-awareness and confidence. Come laugh, dance and pl
 Yoga & mindfulness.
 
 ### Program Philosophy
+
 At the RBA Child Care, we are committed to creating a safe, warm, inviting and nurturing environment where young children
 develop, and learn in a way that best supports their individual needs. Our program is a happy, joyful place that truly celebrates
 and respects young children. We have designed our facility space to ensure we can offer the best possible program for young
@@ -133,6 +137,7 @@ curriculum encompasses wellbeing-and belonging, exploration and creativity, lang
 the daily, weekly and monthly programming.
 
 ### About Our Teaching and Care Team
+
 All staff at the RBA Child Care have Early Childhood Education training and experience in the child care and early learning
 field. They meet all requirements outlined in the Child Care Facility Licensing Regulations, including having a first aid certificate
 and current criminal record check.
@@ -182,21 +187,21 @@ also host tours of the program to other area businesses who may be considering d
 All families who are interested in enrolling in the child care program will receive an enrollment package **(depending on the
 desired start date)** which must be completed and submitted to the Director prior to the child commencing the program. Below
 are the steps regarding this process.
-1. Initial parent inquiry is received by the centre. The parent is sent a pre-registration form and then is invited to visit the
-centre for a tour and to meet with the centre Director or classroom Supervisor. Parent receives enrollment package.
-2. Parent completes and returns the following items to the centre: (Depending on actual start date): **Enrollment Form**, **Planned Attendance Schedule**
 
+1. Initial parent inquiry is received by the centre. The parent is sent a pre-registration form and then is invited to visit the
+   centre for a tour and to meet with the centre Director or classroom Supervisor. Parent receives enrollment package.
+2. Parent completes and returns the following items to the centre: (Depending on actual start date): **Enrollment Form**, **Planned Attendance Schedule**
 3. Additional Consents
 4. Enrollment Agreement
 5. Deposit equal to first month’s fees (The deposit is required to reserve your space- but does not
-guarantee that a space will be open on your requested start date. We match it as close as possible
-with the next available space.)
+   guarantee that a space will be open on your requested start date. We match it as close as possible
+   with the next available space.)
 6. 12 postdated cheques – the first cheque should be dated for the first month that the child is commencing the
-program.
+   program.
 7. Supply fee cheque – pro-rated according to schedule
 8. The forms are reviewed and the Director confirms enrollment in the program.
 9. A gradual entry schedule is discussed and agreed upon to assist you child(ren) in transitioning into the
-program.
+   program.
 
 #### Gradual Entry
 
@@ -239,6 +244,7 @@ Admissions to the RBA Child Care Program are completed in the following priority
 ### Financial Information
 
 #### Program Fees
+
 A complete fee schedule is included in the Enrollment package. Daily fees apply to children who attend the program on a backup or school closure basis as space permits.
 
 Fees are **due and payable on the 1st of every month**. Payments are required in the form of postdated cheques. All cheques
@@ -268,6 +274,7 @@ under any circumstances.
 ### General Program Information
 
 #### Hours of Operation
+
 RBA Child Care will be open between the hours of 7:30am – 5:30 pm Monday through Friday. The Summer School Age
 Program operates from 8:00 am - 5:00 pm Monday through Friday during July & August.
 
@@ -275,11 +282,11 @@ If your child attends half days only; the hours will be as follows (on a space p
 
 * Mornings – Between the hours of 7:30 am to 12:30 pm; or
 * Afternoons – Between the hours of 1:00 pm to 5:30 pm
-Note: Half day rates apply to care within these hours. If a child's care is extended beyond a half day i.e. - a morning child stays
-beyond 12:30 pm, then a Full Day fee will be applied. Half day children may not arrive early or stay late without the prior approval
-of the child care office.
-Program Closures
-RBA Child Care will be closed on all statutory holidays that RBA (in Vancouver) observes. This includes:
+  Note: Half day rates apply to care within these hours. If a child's care is extended beyond a half day i.e. - a morning child stays
+  beyond 12:30 pm, then a Full Day fee will be applied. Half day children may not arrive early or stay late without the prior approval
+  of the child care office.
+  Program Closures
+  RBA Child Care will be closed on all statutory holidays that RBA (in Vancouver) observes. This includes:
 * New Year’s Day
 * Good Friday
 * BC Family Day
@@ -302,12 +309,15 @@ Parents will be given ample notice and reminders of all program closures. There 
 days.
 
 ### Daily Class Schedules
+
 The following schedule gives a basic overview of the types of activities that we do throughout the day. Our program is
 designed to truly follow the needs of the child (both individually and as part of a group). Given this, we modify our
 schedules according to child/classroom needs or special events that we may plan for the centre.
 
 #### Infant-Toddler Class
+
 **Morning – 7:30 – 12:00**
+
 * Free play with toys and materials
 * Individual/group activities and lessons
 * Breakfast
@@ -319,6 +329,7 @@ schedules according to child/classroom needs or special events that we may plan 
 * Naps (for younger children who require this)
 
 **Afternoon – 12:00 – 5:30**
+
 * Lunch – in classroom or children going out with parents for lunch
 * Naps (for children who require this in the afternoon)
 * Individual/group activities and lessons
@@ -329,7 +340,9 @@ schedules according to child/classroom needs or special events that we may plan 
 * Getting ready to go home and saying goodbye
 
 #### Group 30 Months to School Entry and Multi-Age Classes
+
 **Morning – 7:30 – 12:00**
+
 * Free play with toys and materials
 * Breakfast
 * Outside time in the play area
@@ -341,6 +354,7 @@ schedules according to child/classroom needs or special events that we may plan 
 * Prepare for lunch
 
 **Afternoon – 12:00 – 5:30**
+
 * Lunch – in classroom or children going out with parents for lunch
 * Naps (for children who require this in the afternoon)
 * Individual lessons and children freely working/playing with learning materials/toys
@@ -389,7 +403,9 @@ week is very much appreciated.
 ### Coming to Child Care & Going Home Again
 
 #### What to Bring for Your Child:
+
 **Children in all programs require:**
+
 * Extra clothes (pants, underwear, socks and shirt)
 * Rain gear (rain jacket, splash pants & boots)
 * Easy to put on rubber-soled slippers/shoes for inside wear
@@ -397,12 +413,14 @@ week is very much appreciated.
 * Comfort item and/or blanket for napping (if required)
 
 **Seasonal Items:**
+
 * Summer: sun hat, shorts, light weight shirts, bathing suit, sun screen
 * Winter: Snow pants, mittens, hats and warm boots
 
 Children will play outdoors daily (sun, rain or snow), unless the weather poses a safety hazard.
 
 **Specific items for Infant-Toddler Program:**
+
 * 2 – 3 complete changes of clothing is recommended to remain at child care
 * Diapers/ underwear/ training pants – as required for the day
 * Wet ones (diaper wipes)
@@ -412,6 +430,7 @@ Children will play outdoors daily (sun, rain or snow), unless the weather poses 
 Please make sure to clearly label all your child’s belongings.
 
 ### Snacks and Lunches
+
 #### RB Kids Breakfast, Lunch & Snack Program (Optional)
 
 In consultation with a licensed dietician and in collaboration with the Chef Manager of the Kelowna Café we offer a healthy
@@ -427,9 +446,11 @@ a cucumber, a carrot etc. Please only send whole fruits or vegetables). The teac
 encouraged to serve themselves when they are hungry.
 
 #### Lunch
+
 Lunch is a very important part of your child’s day. We include the following in our menu each day. For parents bringing their child
 food we ask and encourage healthy, nutritious, easily manageable lunches for your child. Some foods choices to consider when
 preparing lunch for your child include.
+
 * Vegetables and fruit
 * Grain products
 * Milk and alternatives
@@ -442,15 +463,16 @@ already prepared and in labeled bottles or cup.
 
 **Please keep in mind the following food preparation suggestions while planning your child’s meals:**
 To avoid choking hazards please cut:
+
 * wieners/sausages length wise and chop into small bite size pieces.
 * vegetables into small bite size pieces
 * grapes length wise
-Infant/Toddlers:
+  Infant/Toddlers:
 * Bottles will not be used 2 hours after heating due to health reasons
 * Vegetables need to be steamed/cooked not raw.
 * Fruit needs to be peeled and cut into small bite sized pieces.
 * In addition, the Canada Food Safety Guide recommends children under the age of one do not have honey, eggs, nuts
-or raisins.
+  or raisins.
 
 ### Allergies and Food Tolerance
 
@@ -462,15 +484,18 @@ Please notify staff of any specific dietary restrictions, allergies and/or food 
 your cultural background, in order for us to arrange the appropriate snack and general food safety
 
 ### Toys from Home & Show and Tell
+
 Each program will on occasion have a show and tell day that allows children to bring items they would like to share with their
 classmates. We encourage children to bring an item from nature, something they have made, a special souvenir from a trip, or
 their favourite nonfiction book. The bringing of toys is discouraged as they often get lost or broken.
 
 ### Lost and Found
+
 Items that are unclaimed or lost will be listed or placed by the entrance to the classroom. Any unclaimed items at the end of the
 month will go to charity.
 
 ### Arrival and Drop Off
+
 Our centre opens at 7:30 am. We encourage all full time and half day morning children to arrive to the program by 9:00 am so
 they receive the full benefit of the daily program offerings. Children registered in the half day afternoon program are encouraged
 to arrive by 1:00pm. This will be of particular importance to children in the 3 – 5-year-old program.
@@ -482,6 +507,7 @@ If your child will be late or absent please contact the centre at 778-331-5532. 
 and therefore will not worry about your whereabouts.
 
 #### Greetings & Goodbyes
+
 The transition from home into the classroom is an important part of the day. Greeting the teacher is one of the key transitions of
 the day for your child. In order to make this process as smooth as possible, we encourage parents to say any special good-byes
 before the child meets their teacher. This enables children to build independence and to also enter the classroom
@@ -533,11 +559,12 @@ a late fee commencing at 5:35 pm at a rate of $1.00 per minute. Late fees will b
 care.**
 
 If RBA Child Care has not heard from you by 5:35pm the procedure is as follows:
+
 1. Staff member will phone your home or place of employment; if there is no answer or you cannot be contacted, the alternate person on you registration form will be called.
 2. If no one is available and no alternate arrangements have been made then at 6:00pm we are obligated by
-our Licensing requirements to contact the Ministry of Child and Family Development. They will pick up your
-child and provide care for them. To learn where they have placed your child you will need to contact the
-Ministry’s After-Hours Emergency Number at 604-660-8180.
+   our Licensing requirements to contact the Ministry of Child and Family Development. They will pick up your
+   child and provide care for them. To learn where they have placed your child you will need to contact the
+   Ministry’s After-Hours Emergency Number at 604-660-8180.
 3. Late charges will apply as stated above.
 
 #### Persons Authorized to Pick Up Your Child
@@ -555,11 +582,12 @@ verbal approval for this person(s) to pick up the child. If person(s) is verball
 
 If a staff member assesses a parent/guardian as incapable of providing safe care to their child at the time of pick up, staff will
 proceed as follows:
+
 1. Parents/Guardians will be asked and/or offered assistance in making alternate arrangements.
 2. Staff will offer to call a cab/taxi.
 3. If these offers are refused and the parent/guardian insists on taking the child, the staff member will inform the
-parent/guardian that they (the staff member) have an obligation to contact either the Police and/or the Ministry for
-Children and Family Development.
+   parent/guardian that they (the staff member) have an obligation to contact either the Police and/or the Ministry for
+   Children and Family Development.
 
 #### Custody and Related Court Orders
 
@@ -574,8 +602,10 @@ child. The staff will not release a child to a specifically identified, non-auth
 ### Communication
 
 #### Communication Between Home and Child Care
+
 During the year the child care will send home all sorts of letters, emails, notes, newsletters, and announcements. Among them
 will be:
+
 * Child care work, drawings, art creations and other interesting things
 * Papers that your child chooses to bring home
 * Flyers and announcements of upcoming special events
@@ -584,6 +614,7 @@ will be:
 **You should check your child’s cubby and backpack daily.**
 
 #### Questions or Concerns
+
 Parents who have general questions regarding their child or the program should speak directly with their child’s teacher(s). If
 further clarification is required, parents are encouraged to contact the child care office and speak with the Program Supervisor or
 Director, Corporate Child Care Services.
@@ -592,12 +623,14 @@ Formal complaints regarding issues related to your child or the child care progr
 Corporate Child Care Services.
 
 #### Communication with Second Families
+
 Whenever parents are separated, divorced, or for some other reason not living at the same address, we want to keep both
 parents informed of their child’s progress and child care matters.
+
 * When parent-teacher conferences are scheduled, the teachers should not be asked to conduct separate conferences
-for each parent. We need to communicate the same thing to both parents at the same time, as this experience can
-never be exactly duplicated. If either parent is uncomfortable with scheduling joint conferences, he or she should
-contact the Child Care Director or to discuss the situation.
+  for each parent. We need to communicate the same thing to both parents at the same time, as this experience can
+  never be exactly duplicated. If either parent is uncomfortable with scheduling joint conferences, he or she should
+  contact the Child Care Director or to discuss the situation.
 * Both parents are equally welcomed at all child care events.
 * Free and open communication among all parties is encouraged so that everyone is fully informed.
 
@@ -612,6 +645,7 @@ each child and setting a calm, pleasant tone for the day.
 with your child’s teachers please let us know.
 
 #### Attendance and Absentees
+
 All parents /guardians are required to sign their child into their program upon arrival. During orientation/gradual entry staff will
 inform you of where the sign in/attendance sheets are located.
 
@@ -643,6 +677,7 @@ Whenever your child is ill and won’t be coming to child care, please call RBA 
 Our telephone number is 778-331-5532.
 
 **Children with the following symptoms may NOT attend child care**
+
 * fever over 100.4 F/38C degrees in the last 24 hours
 * nausea, vomiting and/or diarrhea in the last 24-48 hours
 * unusual, unexplained loss of appetite, fatigue, irritability, or headache
@@ -671,8 +706,11 @@ home. When children are so ill as to require frequent medication, they probably 
 delivered to a staff member who works in the child’s classroom who will then place it in a locking storage container.**
 
 ## Section Eight
+
 ### Creating a Safe, Secure and Engaging Environment
+
 #### Child Guidance Policy
+
 At the RBA Child Care Program, we work to establish safe, warm, and caring environments within which we teach children
 positive and age appropriate ways to handle situations, to develop a strong sense of self-discipline, responsibility and courtesy
 and to develop an atmosphere that is peaceful.
@@ -685,6 +723,7 @@ If a child consciously or frequently violates the social contract regarding safe
 the appropriate and natural consequences of their actions.
 
 #### Peaceful Environment
+
 We promote a peaceful and harmonious environment for the benefit of all of our children and families.
 
 We don’t allow super hero play or the use of violent/rude language or actions or loud angry voices. We encourage all of our
@@ -724,6 +763,7 @@ have it disabled and arrange for a replacement pass
 
 The RBA Child Care Program strives to create an environment for young children that is as safe as possible during an
 emergency or disaster situation. Our Emergency & Disaster Planning Policy includes procedures related to:
+
 * Earthquakes
 * Fire or Explosion
 * Gas Leaks
@@ -738,12 +778,13 @@ are accessible within the child care. In addition, the RBA building has other ty
 We also do co-ordinate our emergency planning, drill and evacuation efforts with the RBA Health & Safety Committee.
 
 In the event that we must leave the child care facility due to an emergency evacuation, parents are advised of the following:
+
 * The child care has an emergency marshalling area that we will gather at that is located outside of the facility. Please
-refer to the photo below to see the location that the child care evacuates to. In the event that we must relocate the
-children and teachers to another location (if the emergency marshalling area is deemed to be unsafe); this decision will
-be made by the RBA Child Care Director or other Senior Child Care Administrative Personnel. Parents are reminded
-that children may not be able to be immediately released from the emergency marshalling area until all children and
-teachers have been accounted for and the appropriate approvals for child releases have been met.
+  refer to the photo below to see the location that the child care evacuates to. In the event that we must relocate the
+  children and teachers to another location (if the emergency marshalling area is deemed to be unsafe); this decision will
+  be made by the RBA Child Care Director or other Senior Child Care Administrative Personnel. Parents are reminded
+  that children may not be able to be immediately released from the emergency marshalling area until all children and
+  teachers have been accounted for and the appropriate approvals for child releases have been met.
 
 In the case of other types of emergencies, we follow the procedures outlined in our Emergency & Disaster Planning policy. We
 also coordinate our efforts with the RBA Emergency Procedures for the Glenlyon Building as well as the Crisis Communications
@@ -752,8 +793,11 @@ Plan for RBA.
 If you have questions about the Emergency Procedures please feel free to contact the child care office at 778-331-5532.
 
 ## Section Nine
+
 ### Connecting with the Community
+
 #### Field trip/Out trips
+
 On occasion, the older children in RBA Child Care may take field trips to local points of interest during the year. Each
 fieldtrip/outing is planned to enhance the learning experience of the children in regards to subjects being studied or to take
 advantage of special community events. A special notice of upcoming events will be sent home in prior to the field trip date.
@@ -769,6 +813,7 @@ support. Examples of this include – raising funds for the Canadian Cancer Soci
 regarding important social issues.
 
 #### Need Further Information?
+
 Should you have questions or require further information about our program please feel free to contact the Child Care Office at
 778-331-5532.
 
