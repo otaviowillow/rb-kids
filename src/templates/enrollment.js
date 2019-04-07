@@ -15,8 +15,9 @@ export const EnrollmentTemplate = ({
   const PageContent = contentComponent || Content
 
   return (
-    <div className="enrollment">
-      <div className="window-centered content">
+    <div className="enrollment window-centered">
+      <h2>Enrollment</h2>
+      <div className="content">
         <PageContent className="aside" content={content} />
         <Pdfs files={files} fileDescription={fileDescription} />
       </div>

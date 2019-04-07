@@ -20,7 +20,11 @@ const TemplateWrapper = ({ children }) => (
       }
     `}
     render={data => (
-      <Fragment>
+      <div style={{
+        minHeight: '100vh',
+        display: 'flex',
+        flexDirection: 'column'
+      }}>
         <Helmet>
           <html lang="en" />
           <title>{data.site.siteMetadata.title}</title>
@@ -62,7 +66,7 @@ const TemplateWrapper = ({ children }) => (
         <Navbar />
         {children}
         <Footer />
-      </Fragment>
+      </div>
     )}
   />
 )

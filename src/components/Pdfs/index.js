@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import bytes from 'bytes'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons'

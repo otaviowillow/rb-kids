@@ -1,19 +1,18 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { EnrollmentTemplate } from '../../templates/enrollment'
 
-const EnrollmentPreview = ({ entry, widgetFor }) => (
-  <EnrollmentTemplate
-    title={entry.getIn(['data', 'title'])}
-    content={widgetFor('body')}
-  />
-)
+const EnrollmentPreview = ({ entry, widgetFor }) => {
+  const entryFiles = entry.getIn(['data', 'files'])
+  const files = entryFiles ? entryFiles.toJS() : []
 
-EnrollmentPreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
-  widgetFor: PropTypes.func,
+  return (
+    <EnrollmentTemplate
+      title={entry.getIn(['data', 'title'])}
+      fileDescription={entry.getIn(['data', 'fileDescription'])}
+      files={files}
+      content={widgetFor('body')}
+    />
+  )
 }
 
 export default EnrollmentPreview
