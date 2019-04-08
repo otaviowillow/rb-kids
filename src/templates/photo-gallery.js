@@ -17,7 +17,7 @@ export const PhotoGalleryTemplate = ({
     <div className="window-centered">
       <ul>
         {gallery.map((item, i) => (
-          item ? (
+          item.image ? (
             <li key={i}>
               <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} alt='Gallery item' />
             </li>
