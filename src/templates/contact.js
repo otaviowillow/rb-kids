@@ -11,6 +11,19 @@ function encode(data) {
     .join('&')
 }
 
+export const ContentTemplate = ({
+  content,
+  contentComponent,
+  cont
+}) => {
+  const PageContent = contentComponent || cont
+  return (
+    <div>
+      <PageContent content={content} />
+    </div>
+  )
+}
+
 class ContactTemplate extends React.Component {
   constructor(props) {
     super(props)
@@ -41,9 +54,7 @@ class ContactTemplate extends React.Component {
     return (
       <section className="contact window-centered">
         <aside>
-          <div>
-            <PageContent content={this.props.content} />
-          </div>
+          <ContentTemplate content={this.props.content} contentComponent={this.props.contentComponent} cont={this.props.Content} />
           <Map
             googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4abwXM9G_iVwESpU_QprIKOkRAgwGgbU&v=3.exp&libraries=geometry,drawing,places"
             loadingElement={<div style={{ height: `100%` }} />}
