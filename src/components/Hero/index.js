@@ -36,7 +36,7 @@ class Hero extends Component {
             </div>
           ))}
         </Carousel>
-        <Dots value={this.state.value} onChange={this.onChange} number={items.length} />
+        <Dots value={this.state.value} onChange={onChange} number={items.length} />
       </div>
     )
   }
