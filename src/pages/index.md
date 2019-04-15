@@ -4,7 +4,7 @@ hero:
   - description: >-
       Check here often for news regarding events for our children, including
       important updates
-    image: /img/use.jpg
+    image: /img/capture.png
     link: /about
     subtitle: Welcome to our
     title: New Website
@@ -16,7 +16,10 @@ hero:
     subtitle: We prioritize
     title: RBA Employees
 mission: >-
-  We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate child care facility. Our state of the art facility and care team offer a child centred, nurturing environment for infants, toddlers, preschoolers and school age children.
+  We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
+  child care facility. Our state of the art facility and care team offer a child
+  centred, nurturing environment for infants, toddlers, preschoolers and school
+  age children.
 programs:
   - color: '#e96d17'
     description: Connecting with children in a way that respects their needs.
