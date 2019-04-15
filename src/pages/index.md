@@ -4,7 +4,7 @@ hero:
   - description: >-
       Check here often for news regarding events for our children, including
       important updates
-    image: /img/capture.png
+    image: /img/gallery1.png
     link: /about
     subtitle: Welcome to our
     title: New Website
