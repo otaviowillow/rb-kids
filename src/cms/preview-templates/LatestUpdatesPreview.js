@@ -6,6 +6,7 @@ const LatestUpdatesPreview = ({ entry, widgetFor, getAsset }) => {
     <LatestUpdatesTemplate
       title={entry.getIn(['data', 'title'])}
       date={entry.getIn(['data', 'date'])}
+      author={entry.getIn(['data', 'author'])}
       background={getAsset(entry.getIn(['data', 'background']))}
       content={widgetFor('body')}
     />
