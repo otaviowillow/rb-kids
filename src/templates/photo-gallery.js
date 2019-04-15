@@ -1,32 +1,49 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+
+const PhotoElement = ({
+  item
+}) => {
+  const [modal, showModal] = useState(false);
+
+  return (
+    <li>
+      <img
+        src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image}
+        className={modal ? 'img modal' : 'img'}
+        alt='Gallery item'
+        onClick={() => showModal(true)}
+      />
+      <div className="background" hidden={!modal} onClick={() => showModal(!modal)} />
+    </li>
+  )
+}
 
 export const PhotoGalleryTemplate = ({
   title,
   description,
   gallery
-}) => (
-  <div className="photo-gallery">
-    <header className="margin">
+}) => {
+  return (
+    <div className="photo-gallery">
+      <header className="margin">
+        <div className="window-centered">
+          <h1>{title}</h1>
+          <p>{description}</p>
+        </div>
+      </header>
       <div className="window-centered">
-        <h1>{title}</h1>
-        <p>{description}</p>
+        <ul>
+          {gallery.map((item, i) => (
+            item.image ? <PhotoElement item={item}  /> : <li></li>
+          ))}
+        </ul>
       </div>
-    </header>
-    <div className="window-centered">
-      <ul>
-        {gallery.map((item, i) => (
-          item.image ? (
-            <li key={i}>
-              <img src={item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image} alt='Gallery item' />
-            </li>
-          ) : <li></li>
-        ))}
-      </ul>
     </div>
-  </div>
-)
+  )
+}
+
 
 const PhotoGallery = ({ data }) => {
   const { markdownRemark: post } = data

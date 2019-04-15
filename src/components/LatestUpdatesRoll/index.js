@@ -9,6 +9,7 @@ class LatestUpdatesRoll extends React.Component {
     return (
       <ul className="latest-updates-roll window-centered padding">
       {posts && (posts.map(({ node: post }) => (
+        post.frontmatter.pinned ? (
           <li>
             <Link to={post.fields.slug}>
               <img src={post.frontmatter.background.childImageSharp.fluid.src} alt="background" />
@@ -18,7 +19,21 @@ class LatestUpdatesRoll extends React.Component {
               </aside>
             </Link>
           </li>
-        )))}
+        ) : null
+      )))}
+      {posts && (posts.map(({ node: post }) => (
+        !post.frontmatter.pinned ? (
+          <li>
+            <Link to={post.fields.slug}>
+              <img src={post.frontmatter.background.childImageSharp.fluid.src} alt="background" />
+              <aside>
+                <h2>{post.frontmatter.title}</h2>
+                <p>{post.excerpt}</p>
+              </aside>
+            </Link>
+          </li>
+        ) : null
+      )))}
       </ul>
     );
   }
@@ -29,6 +44,7 @@ export default () => (
     query={graphql`
     query LatestUpdatesRollQuery {
       allMarkdownRemark(
+        limit: 10,
         sort: { order: DESC, fields: [frontmatter___date] },
         filter: { frontmatter: { templateKey: { eq: "latest-updates" } }}
       ) {
@@ -42,6 +58,7 @@ export default () => (
             frontmatter {
               templateKey
               title
+              pinned
               description
               background {
                 childImageSharp {

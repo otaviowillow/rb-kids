@@ -4,6 +4,7 @@ title: 2019 Closure Dates
 background: /img/calendar.png
 date: 2018-12-19T04:19:41.872Z
 author: Brianna Howard
+pinned: false
 ---
 * Tuesday January 1st  – New Year’s Day
 * Monday February 18th  – Family Day
