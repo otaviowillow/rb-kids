@@ -25,7 +25,7 @@ programs:
     description: Connecting with children in a way that respects their needs.
     link: /programs/infant-toddler
     subtitle: Programs for
-    title: Infants
+    title: Infant and Toddlers
   - color: '#b34538'
     description: >-
       We offer the child the best of the best to meet their unique learning
@@ -37,7 +37,7 @@ programs:
     description: 'Connecting with nature as a tool for growth and learning '
     link: /programs/outdoor-learning-program
     subtitle: Programs for
-    title: Outside
+    title: Outdoor Learning
   - color: '#234a69'
     description: Allowing kids to become independent while socializing with new friends
     link: /programs/rbkids-summer-camp
