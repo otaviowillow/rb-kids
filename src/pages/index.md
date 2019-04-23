@@ -25,24 +25,24 @@ programs:
     description: Connecting with children in a way that respects their needs.
     link: /programs/infant-toddler
     subtitle: Programs for
-    title: 'Infant & Toddler '
+    title: Infants
   - color: '#b34538'
     description: >-
       We offer the child the best of the best to meet their unique learning
       style
     link: /programs/pre-school-kindergarten
     subtitle: Learning Program
-    title: Preschool
+    title: Pre-k program
   - color: '#108992'
     description: 'Connecting with nature as a tool for growth and learning '
     link: /programs/outdoor-learning-program
     subtitle: Programs for
-    title: Outdoor Learning
+    title: Outside
   - color: '#234a69'
     description: Allowing kids to become independent while socializing with new friends
     link: /programs/rbkids-summer-camp
     subtitle: Programs for
-    title: Summer
+    title: RB Kids Summer day camp
 sections:
   - description: >-
       We are a combined philosophy (Montessori, Reggio & Traditional ECE)
