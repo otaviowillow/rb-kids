@@ -1,6 +1,6 @@
 ---
 templateKey: programs
-title: Pre-School / Kindergarten
+title: Pre-K Program
 description: >-
   Here at RB Kids we are licensed for up 33 pre-school aged children. We can
   have 25 in our pre-school classroom and up to 8 in our multi-age classroom
