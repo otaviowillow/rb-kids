@@ -722,7 +722,11 @@ approach that is based on empowerment, mutual respect, trust and natural consequ
 If a child consciously or frequently violates the social contract regarding safety, kindness and courtesy, our response is to identify
 the appropriate and natural consequences of their actions.
 
-#### Peaceful Environment
+**Inclusion Policy**
+
+At RBA Child Care we accept and welcome children of all abilities. We believe that each child has the right to an environment and experiences that promote growth in all areas of his or her development. With that in mind, our daily schedules, along with our indoor and outdoor environments are regularly assessed to ensure that full participation in the program is achieved by each and every child. Inclusion is more than just a child’s presence. It ensures active, meaningful participation by every child in the daily program and with one another. We are committed to providing each child with active, meaningful participation. This will occur differently for each child, based on individual abilities and needs. At RBA Child Care all children are valued, respected and have a sense of belonging. 
+
+####  Peaceful Environment
 
 We promote a peaceful and harmonious environment for the benefit of all of our children and families.
 
