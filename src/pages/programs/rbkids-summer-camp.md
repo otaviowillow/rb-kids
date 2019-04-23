@@ -1,7 +1,8 @@
 ---
 templateKey: programs
-title: RBKids Summer Camp
-description: 'We haven''t started the 2019 subscriptions yet, check out soon!'
+title: RBKids Summer day  Camps
+description: |
+  Enrollment for the RBkids Summer Day Camps is now open.
 background: /img/summer-camp-2018-roger-arena.png
 ---
-## We haven't started the 2019 subscriptions yet, come back soon
+## Enrollment for the RBkids Summer Day Camp is now open.
