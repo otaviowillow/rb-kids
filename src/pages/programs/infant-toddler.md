@@ -5,7 +5,7 @@ description: >-
   Here at RB Kids we follow the child and connect with them in a way that truly
   respects and values who they are and their needs.  At RB Kids we have three
   I/T rooms and  are licensed for 34 infant and toddlers.
-background: /img/toddler1.jpg
+background: /img/87811.jpg
 ---
 Here at RB Kids we follow the child and connect with them in a way that truly respects and values who they are and their needs.  At RB Kids we have three I/T rooms and  are licensed for 34 infant and toddlers. Our curriculum is child centered and child led. We provide a warm, welcoming environment for infants & toddlers to explore, experience, learn and have fun.  The educators/caregivers of RB Kids provide a safe nurturing  environment that promotes  hands on exploration and positive social interactions.  We are responsive professionals concerned about all aspects of children’s development.
 
