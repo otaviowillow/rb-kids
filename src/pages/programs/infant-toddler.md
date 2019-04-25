@@ -26,7 +26,7 @@ Parent teacher conferences can be arranged if you would like an update on your c
 * A prepared lunch kit with an ice-pack to keep foods requiring refrigeration cold
 * A thermos to keep foods that need to be heated warm
 
-**Please Label All Your Child’s Belongings**
+**Please Label All Your Child’s Belongings******
 
 ### Separation Anxiety in Young Children
 
