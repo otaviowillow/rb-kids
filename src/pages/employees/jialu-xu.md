@@ -1,8 +1,8 @@
 ---
 templateKey: employees
 name: Jialu Xu
-avatar: /img/xu.jpg
-role: 'Infant & Toddler Team Montessori Directress – I/T #1, #2, & #3'
+avatar: /img/20190109_091010-custom-.jpg
+role: Early Childhood Educator - Infant & Toddler Program - Montessori Teacher
 sort: 1
 ---
-Hi, My name is Jialu Xu and I am really excited to be involved in the early years’ field.
+Hi, My name is Jialu and I am really excited to be involved in the early years’ field.
