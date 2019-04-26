@@ -1,7 +1,7 @@
 ---
 templateKey: employees
 name: Brianna
-avatar: /img/brianna.jpg
+avatar: /img/20190103_143113-1.jpg
 role: RB Kids Program Supervisor
 sort: 3
 phone: ''
