@@ -3,7 +3,7 @@ templateKey: employees
 name: Christine Clements
 avatar: /img/christine.jpg
 role: RBA Corporate Child Care Director
-sort: 17
+sort: 18
 phone: ''
 email: cclements@rbauction.com
 ---
