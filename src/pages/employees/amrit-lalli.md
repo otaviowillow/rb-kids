@@ -1,8 +1,8 @@
 ---
 templateKey: employees
-name: Amrit Lalli
+name: Amrit
 avatar: /img/lalli.jpg
-role: 'Early Childhood Educator -I/T room #1 & #2 – (Substitute)'
+role: Early Childhood Educator - Infant & Toddler Program
 sort: 1
 ---
-Hi, my name is Amrit Lalli and I am very pleased to be working here at RB Kids and look forward to all the fun experiences we share with the children.
+Hi, my name is Amrit and I am very pleased to be working here at RB Kids and look forward to all the fun experiences we share with the children.
