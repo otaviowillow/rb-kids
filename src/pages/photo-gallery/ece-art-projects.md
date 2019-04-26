@@ -1,11 +1,9 @@
 ---
 templateKey: photo-gallery
-title: ECE – Art Projects
+title: RB Kids Photo Gallery
 date: 2017-01-04T15:04:10.000Z
-description: Description missing!
+description: 'A collection of photos from our daily activities and experiences. '
 gallery:
-  - alt: sadsad
-    image: /img/gallery1.png
   - alt: Photo 1
     image: /img/gallery2.jpg
   - alt: Photo 2
