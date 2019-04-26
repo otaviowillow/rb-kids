@@ -2,7 +2,7 @@
 templateKey: employees
 name: Derick
 avatar: /img/20190103_102731-1-custom-.jpg
-role: Early Childhood Educator Assistant - Pre-K Program
+role: ECE Assistant - Pre-K Program
 sort: 14
 ---
 Hello, my name is
