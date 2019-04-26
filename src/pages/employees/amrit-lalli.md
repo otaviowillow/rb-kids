@@ -1,7 +1,7 @@
 ---
 templateKey: employees
 name: Amrit
-avatar: /img/lalli.jpg
+avatar: /img/20190103_102548-1-custom-.jpg
 role: Early Childhood Educator - Infant & Toddler Program
 sort: 1
 ---
