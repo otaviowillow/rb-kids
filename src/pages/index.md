@@ -47,7 +47,7 @@ sections:
   - description: >-
       We are a combined philosophy (Montessori, Reggio & Traditional ECE)
       corporate child care facility.
-    image: /img/philo.jpg
+    image: /img/website-children-at-work..jpg
     link: /about
     title: Philosophy
   - description: >-
