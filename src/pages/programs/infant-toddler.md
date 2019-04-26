@@ -1,6 +1,6 @@
 ---
 templateKey: programs
-title: Infant & Toddler
+title: Infant & Toddler Program
 description: >-
   Here at RB Kids we follow the child and connect with them in a way that truly
   respects and values who they are and their needs.  At RB Kids we have three
