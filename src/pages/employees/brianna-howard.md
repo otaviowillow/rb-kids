@@ -3,7 +3,7 @@ templateKey: employees
 name: Brianna
 avatar: /img/20190103_143113-1.jpg
 role: 'Infant Toddler Program Supervisor - ECE/IT/SN '
-sort: 15
+sort: 16
 phone: ''
 email: ''
 ---
