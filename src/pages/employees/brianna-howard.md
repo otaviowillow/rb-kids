@@ -2,7 +2,7 @@
 templateKey: employees
 name: Brianna
 avatar: /img/20190103_143113-1.jpg
-role: 'Early Childhood Educator/IT/SN - Infant Toddler Program Supervisor '
+role: 'Infant Toddler Program Supervisor - ECE/IT/SN '
 sort: 3
 phone: ''
 email: ''
