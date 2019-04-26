@@ -1,6 +1,6 @@
 ---
 templateKey: programs
-title: Yoga
+title: Yoga Program
 description: >-
   Our yoga programs includes breathing and meditation and creative yoga games
   suitable for all children!
