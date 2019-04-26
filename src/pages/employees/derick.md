@@ -3,7 +3,7 @@ templateKey: employees
 name: Derick
 avatar: /img/20190103_102731-1-custom-.jpg
 role: ECE Assistant - Pre-K Program
-sort: 13
+sort: 17
 ---
 Hello, my name is
 
