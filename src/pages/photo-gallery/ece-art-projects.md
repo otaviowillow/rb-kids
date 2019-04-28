@@ -24,5 +24,27 @@ gallery:
     image: /img/gallery10.jpg
   - alt: Finger painting
     image: /img/finger-painting-2.jpg
+  - alt: Ball games
+    image: /img/website-13.jpg
+  - alt: Reggio art
+    image: /img/website-9.jpg
+  - alt: playing together
+    image: /img/website-10.jpg
+  - alt: we love snow
+    image: /img/website-8.jpg
+  - alt: Chinese New year
+    image: /img/website-7.jpg
+  - alt: Messy art
+    image: /img/website-6.jpg
+  - alt: outside art time
+    image: /img/website-5.jpg
+  - alt: Building towers
+    image: /img/website-3.jpg
+  - alt: Parachute play
+    image: /img/website-2.jpg
+  - alt: snow fun
+    image: /img/website-1.jpg
+  - alt: Christmas tree decorating
+    image: /img/website-12.jpg
 ---
 
