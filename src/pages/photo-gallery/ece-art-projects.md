@@ -22,5 +22,7 @@ gallery:
     image: /img/gallery9.jpg
   - alt: Photo 9
     image: /img/gallery10.jpg
+  - alt: Finger painting
+    image: /img/finger-painting-2.jpg
 ---
 
