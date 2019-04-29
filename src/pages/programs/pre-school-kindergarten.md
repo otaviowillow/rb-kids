@@ -13,7 +13,7 @@ Here at RB Kids we are licensed for up 33 pre-school aged children. We can have 
 
 ## Parent/Teacher Conference:
 
-Parent teacher conferences can be arranged if you would like an update on your child’s progress, if you have any concerns or you are wanting to learn more about the Pre-school/Kindergarten program. If you would like to arrange a parent teacher conference please contact the child care office at  778-331-5532 and we will arrange a time for you to meet with the Program Lead .
+Parent teacher conferences can be arranged if you would like an update on your child’s progress, if you have any questions or you are wanting to learn more about the Pre-k program. If you would like to arrange a parent teacher conference please contact the child care office at  778-331-5532 and we will arrange a time for you to meet with the Program Lead .
 
 ## What Will Your Child Need at Child Care:
 
