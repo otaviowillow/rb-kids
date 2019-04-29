@@ -46,5 +46,13 @@ gallery:
     image: /img/website-1.jpg
   - alt: Christmas tree decorating
     image: /img/website-12.jpg
+  - alt: Dress up
+    image: /img/website-pre-k-3.jpg
+  - alt: Cosy book corner
+    image: /img/website-pre-k-1.jpg
+  - alt: 'Work '
+    image: /img/website-pre-k.jpg
+  - alt: Playdough
+    image: /img/website-prek-5.jpg
 ---
 
