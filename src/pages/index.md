@@ -59,7 +59,7 @@ sections:
   - description: >-
       We welcome you to schedule a personal tour of our facility and classrooms,
       join our waiting list and inquire now about enrollment.
-    image: /img/family.jpg
+    image: /img/website-7.jpg
     link: /enrollment
     title: Enrollment
 ---
