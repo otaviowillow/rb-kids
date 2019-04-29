@@ -53,7 +53,7 @@ sections:
   - description: >-
       We provide very high quality early learning and child care experiences for
       all of the children and families who participate in our program.
-    image: /img/website-prek-5.jpg
+    image: /img/pre-k-website-photo.jpg
     link: /programs
     title: Programs
   - description: >-
