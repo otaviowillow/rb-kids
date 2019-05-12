@@ -10,7 +10,7 @@ description: >-
   follow the child and let them lead us in the direction of what interests them
   and what they would like to explore. Our preplanned outdoor activities will
   include a wide variety of experiences such as, art, music, story time, mud
-  play, scavenger hunts and quiet observation times.
+  play, scavenger hunts and quiet observation times.  
 background: /img/website-outside-learning.jpg
 ---
 ![](/img/1232323.jpg)
