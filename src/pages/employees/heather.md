@@ -2,6 +2,7 @@
 templateKey: employees
 name: 'Heather '
 avatar: /img/20190103_102046-1.jpg
+backgroundPosition: top
 role: ECE Assistant - Infant Toddler Program
 sort: 1
 ---

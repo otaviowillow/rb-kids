@@ -16,6 +16,10 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "employees"}
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image"}
+      - label: "Avatar Position"
+        name: "backgroundPosition"
+        widget: "select"
+        options: ["top", "center", "bottom"]
       - {label: "Role", name: "role", widget: "string"}
       - {label: "Sort", name: "sort", widget: "number", required: true}
       - {label: "Phone", name: "phone", widget: "string", required: false}

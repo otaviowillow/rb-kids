@@ -2,6 +2,7 @@
 templateKey: employees
 name: Jenny
 avatar: /img/20190104_090006-1-custom-.jpg
+backgroundPosition: top
 role: 'ECE/IT/SN - Infant & Toddler Program '
 sort: 10
 ---

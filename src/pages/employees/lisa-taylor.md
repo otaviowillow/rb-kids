@@ -2,6 +2,7 @@
 templateKey: employees
 name: Lisa
 avatar: /img/lisa.jpg
+backgroundPosition: top
 role: Early Childhood Educator/IT - RB Kids Program Supervisor
 sort: 17
 ---

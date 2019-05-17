@@ -2,6 +2,7 @@
 templateKey: employees
 name: Sujeong
 avatar: /img/20190103_142453-1-custom-.jpg
+backgroundPosition: top
 role: Inclusion Coordinator - ECE/IT/SN
 sort: 13
 ---

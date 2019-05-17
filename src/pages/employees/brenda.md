@@ -1,6 +1,7 @@
 ---
 templateKey: employees
 name: Brenda
+backgroundPosition: top
 avatar: /img/20190103_102353.jpg
 role: ECE - Infant Toddler Program
 sort: 9

@@ -2,6 +2,7 @@
 templateKey: employees
 name: Johnson
 avatar: /img/lui.jpg
+backgroundPosition: top
 role: ECE – Infant Toddler Program & Reggio Inspired Teacher
 sort: 2
 ---

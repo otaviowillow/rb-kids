@@ -6,6 +6,7 @@ import { HTMLContent } from '../../components/Content'
 
 const EmployeeCard = ({
   avatar,
+  backgroundPosition,
   name,
   role,
   email,
@@ -14,9 +15,13 @@ const EmployeeCard = ({
 }) => (
   <li className="employee-card">
     <div className="avatar-wrapper">
-      <figure className="avatar">
+      <figure className="avatar" style={{
+        backgroundImage: `url(${avatar})`,
+        backgroundPosition: `${backgroundPosition} center`
+      }} />
+      {/* <figure className="avatar">
         <img src={avatar} alt="avatar" />
-      </figure>
+      </figure> */}
     </div>
     <aside>
       <h3>{name}</h3>

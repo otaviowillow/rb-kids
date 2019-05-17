@@ -2,6 +2,7 @@
 templateKey: employees
 name: Farah
 avatar: /img/farah-custom-2-.jpg
+backgroundPosition: top
 role: ECE - Lead Montessori Directress
 sort: 15
 ---

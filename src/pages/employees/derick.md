@@ -2,6 +2,7 @@
 templateKey: employees
 name: Derick
 avatar: /img/20190103_102731-1-custom-.jpg
+backgroundPosition: top
 role: ECE Assistant - Pre-K Program
 sort: 2
 ---

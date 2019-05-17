@@ -21,6 +21,7 @@ class EmployeesRoll extends React.Component {
             <EmployeeCard
               key={i}
               avatar={post.frontmatter.avatar.childImageSharp.fluid.src}
+              backgroundPosition={post.frontmatter.backgroundPosition}
               name={post.frontmatter.name}
               role={post.frontmatter.role}
               phone={post.frontmatter.phone}

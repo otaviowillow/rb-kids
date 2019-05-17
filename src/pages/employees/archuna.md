@@ -1,6 +1,7 @@
 ---
 templateKey: employees
 name: Archuna
+backgroundPosition: top
 avatar: /img/image1-1-custom-.jpg
 role: ECE - Infant & Toddler Program
 sort: 6

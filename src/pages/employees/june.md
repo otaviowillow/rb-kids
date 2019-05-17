@@ -2,6 +2,7 @@
 templateKey: employees
 name: June
 avatar: /img/20190104_090136-0-1-custom-.jpg
+backgroundPosition: top
 role: ECE/IT - Infant Toddler Program
 sort: 8
 ---

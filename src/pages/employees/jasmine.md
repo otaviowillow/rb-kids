@@ -1,6 +1,7 @@
 ---
 templateKey: employees
 name: Jasmine
+backgroundPosition: top
 avatar: /img/20190103_143306-1-custom-.jpg
 role: 'ECE/IT– Infant & Toddler Program & Pre-k Music Teacher '
 sort: 3
