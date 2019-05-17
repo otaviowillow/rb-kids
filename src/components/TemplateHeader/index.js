@@ -5,13 +5,14 @@ import { faCalendar, faAt } from '@fortawesome/free-solid-svg-icons'
 
 const TemplateHeader = ({
   background,
+  backgroundPosition,
   title,
   date,
   author
 }) => (
   <header className="template-header" style={{
     backgroundImage: `url(${background})`,
-    backgroundPosition: `top center`
+    backgroundPosition: `${backgroundPosition} center`
   }}>
     <div className="window-centered">
       <h2>{title}</h2>
