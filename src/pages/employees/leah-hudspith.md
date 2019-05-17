@@ -2,7 +2,7 @@
 templateKey: employees
 name: Leah
 avatar: /img/20190108_143703-0-.jpg
-backgroundPosition: top
+backgroundPosition: center
 role: Inclusion Coordinator - ECE
 sort: 14
 ---

@@ -7,6 +7,7 @@ import EmployeeCard from '../components/EmployeeCard'
 export const EmployeesTemplate = ({
   name,
   avatar,
+  backgroundPosition,
   role,
   phone,
   email,
@@ -14,6 +15,7 @@ export const EmployeesTemplate = ({
 }) => (
   <EmployeeCard
     avatar={avatar}
+    backgroundPosition={backgroundPosition}
     name={name}
     role={role}
     phone={phone}
@@ -29,6 +31,7 @@ const Employees = ({ data }) => {
     <Layout>
       <EmployeesTemplate
         avatar={post.frontmatter.avatar.childImageSharp ? post.frontmatter.avatar.childImageSharp.fluid.src : post.frontmatter.avatar}
+        backgroundPosition={post.frontmatter.backgroundPosition}
         role={post.frontmatter.role}
         name={post.frontmatter.title}
         phone={post.frontmatter.phone}
@@ -51,6 +54,7 @@ export const pageQuery = graphql`
         role
         phone
         email
+        backgroundPosition
         avatar {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
