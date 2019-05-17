@@ -4,8 +4,9 @@ title: RBKids Summer day  Camps
 description: |
   Enrollment for the RBkids Summer Day Camps is now open.
 background: /img/summer-camp-2018-roger-arena.png
+backgroundPosition: center
 ---
-## 
+##
 
 RB Kids is excited to announce another year of summer programming!
  Registration for our weekly programs is now open….so hurry and get your

@@ -12,6 +12,7 @@ description: >-
   include a wide variety of experiences such as, art, music, story time, mud
   play, scavenger hunts and quiet observation times.  
 background: /img/website-outside-learning.jpg
+backgroundPosition: center
 ---
 ![](/img/1232323.jpg)
 

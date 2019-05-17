@@ -8,6 +8,7 @@ description: >-
   Each child is unique, not only capable of learning but also capable of
   succeeding.
 background: /img/website-children-running.jpg
+backgroundPosition: center
 ---
 Here at RB Kids we are licensed for up 33 pre-school aged children. We can have 25 in our pre-school classroom and up to 8 in our multi-age classroom when it is in operation. Every child has a different learning style and pace. Each child is unique, not only capable of learning but also capable of succeeding. For this reason we have a blended philosophy program ( Montessori, Reggio, & ECE) where we can offer the child the best of the best to meet their unique learning style. Independence plays a huge role in children’s self esteem and self confidence. We allow children time to create, learn, play and do for themselves so they can have that sense of accomplishment and pride.  Play is often talked about as children just having fun and not doing anything but the reality is that for children play is learning. We create an environment that respects and values children’s learning style and does not limit how high they can soar.
 

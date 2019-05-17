@@ -9,6 +9,7 @@ export const ProgramsTemplate = ({
   title,
   description,
   background,
+  backgroundPosition,
   content,
   contentComponent
 }) => {
@@ -16,7 +17,7 @@ export const ProgramsTemplate = ({
 
   return (
     <div className="programs">
-      <TemplateHeader title={title} background={background} />
+      <TemplateHeader title={title} background={background} backgroundPosition={backgroundPosition} />
       <div className="window-centered update-content">
         <PageContent content={content} />
       </div>
@@ -32,6 +33,7 @@ const Programs = ({ data }) => {
       <ProgramsTemplate
         title={post.frontmatter.title}
         background={post.frontmatter.background.childImageSharp ? post.frontmatter.background.childImageSharp.fluid.src : post.frontmatter.background}
+        backgroundPosition={post.frontmatter.backgroundPosition}
         content={post.html}
         contentComponent={HTMLContent}
       />
@@ -49,6 +51,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        backgroundPosition
         background {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {

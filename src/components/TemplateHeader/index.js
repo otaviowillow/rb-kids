@@ -9,7 +9,10 @@ const TemplateHeader = ({
   date,
   author
 }) => (
-  <header className="template-header" style={{ backgroundImage: `url(${background})` }}>
+  <header className="template-header" style={{
+    backgroundImage: `url(${background})`,
+    backgroundPosition: `top center`
+  }}>
     <div className="window-centered">
       <h2>{title}</h2>
       <ul className="details-card">
