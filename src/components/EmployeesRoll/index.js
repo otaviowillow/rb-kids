@@ -57,6 +57,7 @@ export default () => (
               phone
               email
               sort
+              backgroundPosition
               avatar {
                 childImageSharp {
                   fluid(maxWidth: 600, quality: 100) {
