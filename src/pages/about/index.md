@@ -15,8 +15,6 @@ We offer:
 
 Ritchie Bros. Auctioneers, 9500 Glenlyon Parkway, Burnaby, BC V5J 0C6.  All visitors to the facility must report to the main reception to sign in and receive a visitor pass.  Once signed in the child care office will be notified of your arrival.  All meetings must be prebooked as we do not conduct drop in tours of the facility. Here is a link with directions to the main RBA building, where the child care is located.
 
-If you are interested in applying for a space in our program please click on either of the links below:
-
 ##### Children of Ritchie Bros. Auctioneers Employees
 
 * Children of RBA employees may attend a minimum of 2 consecutive days per week through to full time – as space permits. Please note we do not offer mid week 2 or 3 day spaces.
