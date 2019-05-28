@@ -6,11 +6,9 @@ background: /img/website-pre-k-3.jpg
 date: 2019-05-28T21:29:00.668Z
 author: Christine Clements
 ---
-## Annual Maintenance/Repairs and Professional Development
+We will be **closed** the following dates for our annual maintenance/repairs and ECE Professional Develpment
 
-# Closed 
-
-* June 27th
-* June 28th
-* July 1st  - Canada Day
-* July 2nd
+* **June 27th**
+* **June 28th**
+* **Canada Day - July 1st**
+* **July 2nd**
