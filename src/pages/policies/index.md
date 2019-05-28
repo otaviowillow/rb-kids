@@ -85,7 +85,7 @@ We offer the following in our Music Program:
 * Group Piano for 3 – 5-year old’s
 * Music Appreciation – Guests come in and showcase their musical talents (e.g. guitar, violin, drums & Chinese flute)
 
-### Harmony Kids Yoga Program
+### RB Kids Yoga Program
 
 Offers children of all ages the gifts of lower stress, anger management, increased self-esteem, lowered anxiety, improved
 concentration and focus, self-awareness and confidence. Come laugh, dance and play as we celebrate all that is magical about
@@ -726,7 +726,7 @@ the appropriate and natural consequences of their actions.
 
 At RBA Child Care we accept and welcome children of all abilities. We believe that each child has the right to an environment and experiences that promote growth in all areas of his or her development. With that in mind, our daily schedules, along with our indoor and outdoor environments are regularly assessed to ensure that full participation in the program is achieved by each and every child. Inclusion is more than just a child’s presence. It ensures active, meaningful participation by every child in the daily program and with one another. We are committed to providing each child with active, meaningful participation. This will occur differently for each child, based on individual abilities and needs. At RBA Child Care all children are valued, respected and have a sense of belonging. 
 
-####  Peaceful Environment
+#### Peaceful Environment
 
 We promote a peaceful and harmonious environment for the benefit of all of our children and families.
 
