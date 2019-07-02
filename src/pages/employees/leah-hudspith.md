@@ -6,4 +6,4 @@ backgroundPosition: center
 role: Inclusion Coordinator - ECE
 sort: 14
 ---
-Hi, my name is Leah and I have been here are RB Kids since 200? I have learned so much about the early years and I enjoy watching the children learn new skills. I am a person who is passionate about quality care and experiences.
+Hi, my name is Leah and I have been here are RB Kids since 2014 I have learned so much about the early years and I enjoy watching the children learn new skills. I am a person who is passionate about quality care and experiences.
