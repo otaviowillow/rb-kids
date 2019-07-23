@@ -3,8 +3,6 @@ templateKey: enrollment
 title: RBA Employee
 fileDescription: Pre-Registration form
 files:
-  - name: RBA Pre-Registration Form
-    pdf: /img/rba-employee-corporate-child-care-pre-registration.pdf
   - name: 'New RB Pre-Registration Form '
     pdf: /img/rba-employee-corporate-child-care-pre-registration.pdf
 ---
