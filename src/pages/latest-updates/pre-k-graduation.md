@@ -2,7 +2,7 @@
 templateKey: latest-updates
 pinned: true
 title: Pre-K Graduation
-background: /img/1232323.jpg
+background: /img/prekgrad.jpg
 date: 2019-08-30T16:50:37.861Z
 author: Christine Clements
 ---
