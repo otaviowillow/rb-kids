@@ -3,8 +3,8 @@ templateKey: enrollment
 title: RBA Employee
 fileDescription: 'RB Employee Pre-Registration form '
 files:
-  - name: 'New RB Pre-Registration Form '
-    pdf: /img/rba-employee-corporate-child-care-pre-registration.pdf
+  - name: 'RB Employee Pre-Registration '
+    pdf: /img/rba-employee-pre-registration.pdf
 ---
 If you are an employee of Ritchie Bros. Auctioneers you qualify to receive priority access to the RB Kids Child Care Program for your immediate children. Please contact the child care office at 778-331-5532  . We suggest that you contact us as far in advance as possible from when you think you will need that child care. The program is increasingly popular among employees and our space limitations are increasing.
 
