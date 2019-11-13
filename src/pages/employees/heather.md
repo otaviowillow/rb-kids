@@ -3,7 +3,7 @@ templateKey: employees
 name: 'Heather '
 avatar: /img/20190103_102046-1.jpg
 backgroundPosition: top
-role: ECE Assistant - Infant Toddler Program
+role: ECE Assistant - AUXILIARY STAFF
 sort: 1
 ---
 Hi there! My name is Heather and I am very
