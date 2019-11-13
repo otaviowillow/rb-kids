@@ -1,7 +1,7 @@
 ---
 templateKey: enrollment
 title: RBA Employee
-fileDescription: 'Pre-Registration form '
+fileDescription: 'RB Employee Pre-Registration form '
 files:
   - name: 'New RB Pre-Registration Form '
     pdf: /img/rba-employee-corporate-child-care-pre-registration.pdf
