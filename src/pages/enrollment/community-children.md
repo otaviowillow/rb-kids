@@ -4,9 +4,7 @@ title: Community Children
 fileDescription: Pre-Registration
 files: []
 ---
-
-
-If you are interested in applying to our Child Care Program waiting list a pre-registration must be completed in order for you child(ren) to be placed on the waitlist. All completed Pre-Registration Packages for the child care can either be dropped off at RBA reception or mailed to RB Kids Child Care 9500 Glenlyon Parkway, Burnaby BC v5j 0c6.
+If you are interested in applying to our Child Care Program please contact us regarding our Community Children pre-registration forms. 
 
 Tours of the Child Car Program are by scheduled appointment and only for Pre-Registered Families.
 
