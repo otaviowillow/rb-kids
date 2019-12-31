@@ -15,6 +15,11 @@ hero:
     link: /enrollment
     subtitle: We prioritize
     title: RBA Employees
+  - description: Take a look at our latest updates for updated information & closures.
+    image: /img/calendar.png
+    link: /latest-updates
+    subtitle: 'Here is our '
+    title: 2020 Closure Dates
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
