@@ -6,6 +6,8 @@ background: /img/calendar.png
 date: 2019-12-31T17:05:28.297Z
 author: Brianna
 ---
+## **RB Child Care Closures for 2020**
+
 Wednesday, January 1st - Closed - New Year's Day
 
 Monday, February 17th - Closed - Family Day
