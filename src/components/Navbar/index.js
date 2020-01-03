@@ -42,7 +42,7 @@ class NavBar extends Component {
               <li>
                 <Link to='/enrollment'>Enrollment <FontAwesomeIcon icon={faChevronDown} /></Link>
                 <ul>
-                  <li><Link to='/enrollment/rba-employee'>RBA Employees</Link></li>
+                  <li><Link to='/employees'>RBA Employees</Link></li>
                   <li><Link to='/enrollment/community-children'>Community Children</Link></li>
                 </ul>
               </li>
