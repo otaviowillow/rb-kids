@@ -20,14 +20,6 @@ hero:
     link: /latest-updates
     subtitle: Click here to view our
     title: 2020 Closure Dates
-  - description: >-
-      Due to extreme winter weather, warnings regarding accumulating snow, and
-      unsafe road conditions, we have decided to close the centre for the day.
-      This is to ensure the safety of all our families and child care staff.
-    image: /img/5c5ae2b845d72.jpg
-    link: /latest-updates
-    subtitle: 'Closed Wednesday, January 15th.'
-    title: CLOSED DUE TO WEATHER
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
