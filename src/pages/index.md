@@ -15,11 +15,11 @@ hero:
     link: /enrollment
     subtitle: We prioritize
     title: RBA Employees
-  - description: Take a look at our latest updates for updated information & closures.
-    image: /img/calendar.png
-    link: /latest-updates
-    subtitle: Click here to view our
-    title: 2020 Closure Dates
+  - description: 'Please read and view our Covid-19 Parent Policies and Procedures. '
+    image: /img/apple-touch-icon.png
+    link: /latestupdates
+    subtitle: Additional Parent Policies and Procedures
+    title: Covid-19 Parent Policies & Procedures
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
