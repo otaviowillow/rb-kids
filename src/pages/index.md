@@ -17,7 +17,7 @@ hero:
     title: RBA Employees
   - description: 'Please read and view our Covid-19 Parent Policies and Procedures. '
     image: /img/apple-touch-icon.png
-    link: /LatestUpdates
+    link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Covid-19 Parent Policies & Procedures
 mission: >-
