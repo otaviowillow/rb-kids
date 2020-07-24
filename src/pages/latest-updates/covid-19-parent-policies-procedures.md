@@ -86,7 +86,7 @@ Childcare ratios are required during operation regardless of a pandemic. Unfores
 
 • Staff will sign your child in and out each day.
 
-• Parents will not be allowed inside the childcare unless deemed necessary (gradual entry). If a parent must enter the setting, they should maintain physical distance from staff and other children present. Parents will be reminded to practice diligent hand hygiene and maintain physical distance when they are in the centre.
+• If a parent needs to enter the childcare, they will need to contact the Director or their child’s Program Supervisor prior to entering the centre. Parents will be reminded to practice diligent hand hygiene and maintain physical distance (6ft or 2m) when they are in the centre. If parents cannot maintain physical distance, they will be required to wear a mask or face covering.  
 
 • Please maintain proper social distance at the entrances until a staff member can bring your child inside/outside.
 
@@ -95,6 +95,10 @@ Childcare ratios are required during operation regardless of a pandemic. Unfores
 • IT1 children will meet at the main childcare entrance doors at your scheduled time.
 
 • Pre-K & Jr. Junior Pre-K will meet at the picnic tables by the main entrance at your scheduled time.
+
+• The location for drop-off/pick-up may change based on program needs. The Director or Program Supervisors will update you on location by email.  
+
+• We will schedule drop-off and pick-up times per family. Drop-off and pick-up times will be communicated via email. Please adhere to your pre-scheduled time, as this will assist with physical distancing. 
 
 • We will schedule drop-off and pick-up times per family. Drop-off and pick-up times will be communicated via email. Please adhere to your pre-scheduled time, as this will assist with physical distancing.
 
