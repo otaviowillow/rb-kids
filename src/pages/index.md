@@ -20,6 +20,11 @@ hero:
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Covid-19 Parent Policies & Procedures
+  - description: 'The childcare will be closed Monday, August 3rd for BC Day.'
+    image: /img/bc-day.jpg
+    link: /latest-updates
+    subtitle: 'BC Day '
+    title: 'Closed Monday, August 3rd 2020'
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
