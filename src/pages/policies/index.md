@@ -431,20 +431,6 @@ Please make sure to clearly label all your child’s belongings.
 
 ### Snacks and Lunches
 
-#### RB Kids Breakfast, Lunch & Snack Program (Optional)
-
-In consultation with a licensed dietician and in collaboration with the Chef Manager of the Kelowna Café we offer a healthy
-breakfast, lunch and snack program. We follow the recommendations set out by the Canada Food Guide for young children.
-Please contact the program manager for information and registration. Please note this is not included in your child care fees.
-
-#### Open Snack
-
-At RBA Child Care, we provide nutritious snacks each day through an Open Snack Program for our older Toddlers, 3-5 and
-Multi-Age children. We ask that each child contribute a fruit or vegetable to our snack basket daily. These baskets can be found
-at the entry way to the classrooms; just by the sign in sheets. (Examples of items for the baskets include – an apple, an orange,
-a cucumber, a carrot etc. Please only send whole fruits or vegetables). The teachers will prepare these items and place them onto a snack plate which will be shared with the children. Snack is available to the children throughout the day and children are
-encouraged to serve themselves when they are hungry.
-
 #### Lunch
 
 Lunch is a very important part of your child’s day. We include the following in our menu each day. For parents bringing their child
@@ -476,7 +462,7 @@ To avoid choking hazards please cut:
 
 ### Allergies and Food Tolerance
 
-#### Due to the severity of some nut allergies RBA Child Care is a NUT FREE ZONE.
+#### Due to the severity of some nut allergies, RBA Child Care is a NUT FREE ZONE.
 
 Please do not send any items that contain nuts or that are made in facilities where they may come into contact with nuts.
 
