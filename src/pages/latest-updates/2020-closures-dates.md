@@ -36,8 +36,6 @@ Monday, October 12th - Closed - Thanksgiving
 
 Wednesday, November 11th - Closed - Remembrance Day
 
-Friday, December 11th - Closed - Professional Development Day
-
 Thursday, December 24th - Early Closure – time to be announced
 
 Friday, December 25th - Closed - Christmas Day
