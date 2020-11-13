@@ -4,7 +4,7 @@ title: Music Program
 description: >-
   Group piano lessons for Pre-K children and music stories and introductions to
   instruments for the Infant & Toddler program.
-background: /img/img_2125.jpg
+background: /img/pre-k-music.jpg
 backgroundPosition: center
 ---
 In our music program the children begin to discover instruments and music through music stories, rhymes and games.
