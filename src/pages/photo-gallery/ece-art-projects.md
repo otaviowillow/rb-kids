@@ -16,5 +16,7 @@ gallery:
     image: /img/website-pre-k-havest-pg-.jpg
   - alt: Music
     image: /img/website-pre-k-music-pg-.jpg
+  - alt: Outside Play
+    image: /img/website-pre-k-outside-play-pg-.jpg
 ---
 
