@@ -22,5 +22,7 @@ gallery:
     image: /img/website-pre-k-pg-.jpg
   - alt: Reggio
     image: /img/website-pre-k-reggio-2-pg-.jpg
+  - alt: Reggio 1
+    image: /img/website-pre-k-reggio-pg-.jpg
 ---
 
