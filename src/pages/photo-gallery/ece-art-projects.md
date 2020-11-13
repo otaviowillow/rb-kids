@@ -4,10 +4,8 @@ title: RB Kids Photo Gallery
 date: 2017-01-04T15:04:10.000Z
 description: 'A collection of photos from our daily activities and experiences. '
 gallery:
-  - alt: Montessori
-    image: /img/website-pre-k-pg-.jpg
-  - alt: Photo 8
-    image: /img/gallery9.jpg
+  - alt: art
+    image: /img/website-jr.-pre-k-art-pg-.jpg
   - alt: Photo 9
     image: /img/gallery10.jpg
   - alt: Finger painting
