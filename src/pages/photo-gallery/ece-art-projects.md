@@ -12,5 +12,7 @@ gallery:
     image: /img/website-jr.-pre-k-art-pg-.jpg
   - alt: Water painting
     image: /img/pre-k-water-painting.jpg
+  - alt: Harvest time
+    image: /img/website-pre-k-havest-pg-.jpg
 ---
 
