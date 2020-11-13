@@ -18,5 +18,7 @@ gallery:
     image: /img/website-pre-k-music-pg-.jpg
   - alt: Outside Play
     image: /img/website-pre-k-outside-play-pg-.jpg
+  - alt: Montessori
+    image: /img/website-pre-k-pg-.jpg
 ---
 
