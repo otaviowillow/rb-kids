@@ -20,5 +20,7 @@ gallery:
     image: /img/website-pre-k-outside-play-pg-.jpg
   - alt: Montessori
     image: /img/website-pre-k-pg-.jpg
+  - alt: Reggio
+    image: /img/website-pre-k-reggio-2-pg-.jpg
 ---
 
