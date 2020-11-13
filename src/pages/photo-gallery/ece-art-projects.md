@@ -4,12 +4,10 @@ title: RB Kids Photo Gallery
 date: 2017-01-04T15:04:10.000Z
 description: 'A collection of photos from our daily activities and experiences. '
 gallery:
-  - alt: art
-    image: /img/website-jr.-pre-k-art-pg-.jpg
   - alt: Photo 9
     image: /img/gallery10.jpg
-  - alt: Finger painting
-    image: /img/finger-painting-2.jpg
+  - alt: yoga
+    image: /img/webesite-pre-k-yoga-pg-.jpg
   - alt: Ball games
     image: /img/website-13.jpg
   - alt: Reggio art
