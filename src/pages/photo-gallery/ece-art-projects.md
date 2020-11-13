@@ -4,34 +4,18 @@ title: RB Kids Photo Gallery
 date: 2017-01-04T15:04:10.000Z
 description: 'A collection of photos from our daily activities and experiences. '
 gallery:
-  - alt: Photo 9
-    image: /img/gallery10.jpg
   - alt: yoga
     image: /img/webesite-pre-k-yoga-pg-.jpg
-  - alt: Ball games
-    image: /img/website-13.jpg
-  - alt: Reggio art
-    image: /img/website-9.jpg
+  - alt: stop sign
+    image: /img/pre-k-look-we-made-our-own-signs.jpg
+  - alt: music
+    image: /img/website-pre-k-music-pg-.jpg
   - alt: playing together
-    image: /img/website-10.jpg
-  - alt: we love snow
-    image: /img/website-8.jpg
+    image: /img/website-pre-k-reggio-2-pg-.jpg
   - alt: Chinese New year
     image: /img/website-7.jpg
   - alt: Messy art
     image: /img/website-6.jpg
-  - alt: outside art time
-    image: /img/website-5.jpg
-  - alt: Building towers
-    image: /img/website-3.jpg
-  - alt: Parachute play
-    image: /img/website-2.jpg
-  - alt: snow fun
-    image: /img/website-1.jpg
-  - alt: Christmas tree decorating
-    image: /img/website-12.jpg
-  - alt: Dress up
-    image: /img/website-pre-k-3.jpg
   - alt: Cosy book corner
     image: /img/website-pre-k-1.jpg
   - alt: 'Work '
