@@ -6,8 +6,8 @@ description: 'A collection of photos from our daily activities and experiences. 
 gallery:
   - alt: we made signs
     image: /img/pre-k-look-we-made-our-own-signs.jpg
-  - alt: 'Work '
-    image: /img/website-pre-k.jpg
+  - alt: yoga
+    image: /img/webesite-pre-k-yoga-pg-.jpg
   - alt: Playdough
     image: /img/website-prek-5.jpg
   - alt: Water painting
