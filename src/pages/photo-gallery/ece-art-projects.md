@@ -8,8 +8,8 @@ gallery:
     image: /img/pre-k-look-we-made-our-own-signs.jpg
   - alt: yoga
     image: /img/webesite-pre-k-yoga-pg-.jpg
-  - alt: Playdough
-    image: /img/website-prek-5.jpg
+  - alt: Art
+    image: /img/website-jr.-pre-k-art-pg-.jpg
   - alt: Water painting
     image: /img/pre-k-water-painting.jpg
 ---
