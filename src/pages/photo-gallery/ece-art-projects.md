@@ -14,5 +14,7 @@ gallery:
     image: /img/pre-k-water-painting.jpg
   - alt: Harvest time
     image: /img/website-pre-k-havest-pg-.jpg
+  - alt: Music
+    image: /img/website-pre-k-music-pg-.jpg
 ---
 
