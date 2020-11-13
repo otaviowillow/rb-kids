@@ -4,8 +4,6 @@ title: RB Kids Photo Gallery
 date: 2017-01-04T15:04:10.000Z
 description: 'A collection of photos from our daily activities and experiences. '
 gallery:
-  - alt: Photo 1
-    image: /img/gallery2.jpg
   - alt: Photo 3
     image: /img/gallery4.jpg
   - alt: Photo 4
@@ -50,5 +48,7 @@ gallery:
     image: /img/website-pre-k.jpg
   - alt: Playdough
     image: /img/website-prek-5.jpg
+  - alt: Water painting
+    image: /img/pre-k-water-painting.jpg
 ---
 
