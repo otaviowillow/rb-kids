@@ -36,10 +36,10 @@ Monday, October 12th - Closed - Thanksgiving
 
 Wednesday, November 11th - Closed - Remembrance Day
 
-Thursday, December 24th - Early Closure – time to be announced
+Thursday, December 24th - Early Closure – Closed at 12:00 pm
 
 Friday, December 25th - Closed - Christmas Day
 
 Monday, December 28th - Closed in lieu of December 26th
 
-Thursday, December 31st - Early Closure – Time to be announced
+Thursday, December 31st - Early Closure – Closed at 3:00 pm
