@@ -1,45 +1,45 @@
 ---
 templateKey: latest-updates
 pinned: true
-title: 2020 Closures Dates
+title: 2021 Closures Dates
 background: /img/calendar.png
-date: 2019-12-31T17:05:28.297Z
+date: 2020-12-31T17:05:28.297Z
 author: Brianna
 ---
-## **RB Child Care Closures for 2020**
+## **RB Child Care Closures for 2021**
 
-Wednesday, January 1st - Closed - New Year's Day
+Friday, January 1st - Closed - New Year's Day
 
-Monday, February 17th - Closed - Family Day
+Monday, February 15th - Closed - Family Day
 
-Friday, March 6th - Closed – Professional Development Day
+Friday, April 2nd - Closed - Good Friday
 
-Friday, April 10th - Closed - Good Friday
+Monday, May 24th - Closed – Victoria Day
 
-Monday, May 18th - Closed – Victoria Day
+Thursday, July 1st - Closed - Canada Day
 
-Wednesday, July 1st - Closed - Canada Day
+Friday, July 2nd - Closed - Annual Maintenance
 
-Thursday, July 2nd - Closed - Annual Maintenance
+Monday, July 5th - Closed - Annual Maintenance
 
-Friday, July 3rd - Closed - Annual Maintenance
+Tuesday, July 6th - Closed - Annual Maintenance
 
-Monday, July 6th - Closed - Annual Maintenance
+Monday, August 2nd - Closed – BC Day
 
-Monday, August 3rd - Closed – BC Day
+Monday, September 6th - Closed - Labour Day
 
-Monday, September 7th - Closed - Labour Day
+Tuesday, September 7th - Closed - Professional Development Day
 
-Monday, September 21st - Closed - Professional Development Day
-
-Monday, October 12th - Closed - Thanksgiving
+Monday, October 11th - Closed - Thanksgiving
 
 Wednesday, November 11th - Closed - Remembrance Day
 
-Thursday, December 24th - Early Closure – Closed at 12:00 pm
+Friday, December 10th - Closed - Professional Development Day
 
-Friday, December 25th - Closed - Christmas Day
+Friday, December 24th - Early Closure – Time to be anncouned
 
-Monday, December 28th - Closed in lieu of December 26th
+Monday, December 27th - Closed In lieu of Christmas Day
 
-Thursday, December 31st - Early Closure – Closed at 3:00 pm
+Tuesday, December 28th - Closed in lieu of December 26th
+
+Friday, December 31st - Early Closure – Time to be announced
