@@ -22,7 +22,7 @@ hero:
     title: Covid-19 Parent Policies & Procedures
   - description: 'RB Kids will be closed Monday, February 15th for Family Day. '
     image: /img/family-day-postcard-activity-scaled-e1581456027555.jpg
-    link: /latestupdates
+    link: /latest-updates
     subtitle: 'Family Day - Monday, February 15th'
     title: 'Closure - Monday, Feb. 15th'
 mission: >-
