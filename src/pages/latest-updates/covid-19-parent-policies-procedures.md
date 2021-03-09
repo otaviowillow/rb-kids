@@ -14,25 +14,23 @@ We take the concerns regarding Covid-19 very seriously at RB Childcare. The heal
 
  In addition to the RB Kids Parent Policies and Procedures, which can be found at www.rbkids.ca, the following policies and procedures are effective immediately and will be in place throughout the Covid-19 pandemic. These policies and procedures may change at any time due to the current Covid-19 situation.
 
-
-
 **Covid-19 Specific Health & Illness**
 
-•	Parents and caregivers must assess their child daily for symptoms of common cold, influenza, Covid-19, or other infectious respiratory diseases before sending them to childcare. Childcare staff will ask you questions regarding your child’s health each day. 
+•	Parents and caregivers must assess their child daily for symptoms of common cold, influenza, Covid-19, or other infectious respiratory diseases before sending them to childcare. Childcare staff will ask you questions regarding your child’s health each day.
 
-•	Children with a fever or 2 more symptoms of covid-19 must stay home until symptoms resolve or 10 days, whichever is longest. Symptoms include the following: respiratory illness, gastrointestinal, fever, cough, runny nose, fatigue, and/or muscle aches. 
+• Children with the following symptoms of Covid-19 should stay home for 10-14 days or receive a negative Covid-19 test. Fever, cough, chills, loss of sense of smell or taste, or difficulty breathing.
 
-•	If a child has only one symptom (excluding fever) of covid-19, children may return to childcare after symptoms subside and have been in good health for 48 hours with no other symptoms.
+• Children with only one of the following symptoms of Covid-19 may return to childcare after symptoms subside and have been in good health for 48 hours with no other symptoms. Sore throat, loss of appetite, headache, body aches, extreme fatigue or tiredness, nausea or vomiting, diarrhea.
 
-•	In the event of a negative Covid-19 test (physician's note must be provided), children may return to the facility once symptoms have improved, even if it is less than 10 days. Children must be in good health for 48 hours prior to returning. 48 hours begins after the last bout of their symptom (vomiting, diarrhea, etc.)
+• Children who develop two or more symptoms of Covid-19 should stay home for 10-14 days or receive a negative Covid-19 test. Sore throat, loss of appetite, headache, body aches, extreme fatigue or tiredness, nausea or vomiting, diarrhea.
+
+• In the event of a negative Covid-19 test, children may return to the facility once symptoms have improved, even if it is less than 10 days. Children must be in good health for 48 hours before returning and be able to participate in all aspects of the program. 48 hours begins after the last bout of their symptom (vomiting, diarrhea, etc.)
 
 •	Children, parents, and household members must not enter the childcare if they have symptoms of Covid-19 or have traveled outside of Canada in the last 14 days or have been identified by public health as a close contact of a person with a confirmed case of Covid-19.
 
 •	If anyone in your household has been required to self-isolate for 10 days-14 days, your child must remain away from the childcare until the isolation period has past and they are symptom-free.
 
 •	Please notify the Director of the childcare if your child or anyone in the child’s immediate household tests positive for Covid-19.
-
-
 
 **If your child becomes ill while at childcare, we will take the following steps:**  
 
@@ -42,13 +40,9 @@ We take the concerns regarding Covid-19 very seriously at RB Childcare. The heal
 
 •	We will contact the child’s parent or caregiver to pick them up right away. 
 
-
-
 **Hand Hygiene** 
 
 Rigorous handwashing with plain soap and water is the single most effective way to reduce the spread of illness. Children and staff can pick up germs easily from anything they touch and can spread those germs to objects, surfaces, food, and people. Everyone should practice diligent hand hygiene. Parents and staff can teach and reinforce these practices amongst children.
-
-
 
 In addition to our hand washing policy in place - Children will be asked to wash their hands according to the B.C Centre Disease Control recommendations: 
 
@@ -64,10 +58,6 @@ In addition to our hand washing policy in place - Children will be asked to wash
 
 •	Whenever they are entering a new activity  
 
-
-
-
-
 **Physical Distancing** 
 
 We will be encouraging physical distancing where possible within the childcare setting: 
@@ -81,8 +71,6 @@ We will be encouraging physical distancing where possible within the childcare s
 •	Incorporate more individual activities or activities that encourage more space between children and staff. 
 
 •	We will make modifications to the classrooms to assist with physical distancing.
-
-
 
 **Childcare Ratio and Hours of Operation** 
 
@@ -122,8 +110,6 @@ Childcare ratios are required during operation regardless of a pandemic. Unfores
 
 If you are late for your scheduled time, you will need to call and wait in your car until you receive further directions from staff.
 
-
-
 **Meals and Food Service** 
 
 •	At this time, we will not be providing a meal program or sharing snacks.
@@ -138,21 +124,15 @@ If you are late for your scheduled time, you will need to call and wait in your 
 
 •	Please clearly label all items brought from home. 
 
-
-
 **Naptime/Rest time** 
 
 If your child needs to rest or have nap time while at childcare, they will be placed on cots/mats “head to toe” to reduce possible transmission of illness. (Child, one has their head at the top of their cot. Child two has their head at the bottom of their cot.) This creates additional spacing between children while sleeping. 
 
-•	Bedding must be provided by parents and laundered daily
-
-
+•	Bedding must be provided by parents and laundered once a week or when soiled.
 
 **Sunscreen \*If required\***
 
 To reduce the possible spread of illness, we have decided that we will be providing sunscreen (SPF 30) for all children. Please apply sunscreen before arrival at the childcare. If it is not applied to your child before attending, we will then use the sunscreen provided by RBA Childcare. If reapplication is needed, we will use sunscreen provided by RBA.  
-
-
 
 **Personal Belongings** 
 
@@ -162,10 +142,10 @@ To reduce the possible spread of illness, we have decided that we will be provid
 
 •	Only bring personal comfort items (e.g., stuffy, etc.) if they are clean and can be laundered at the end of each day. 
 
-\
+\
 **Staff Health Policies:** 
 
-•	Staff with symptoms (respiratory illness, gastrointestinal, fever, cough, runny nose, etc.) must stay home until they receive a negative Covid-19 test and no fever is present, or until 10 days have passed and symptoms have resolved. (Physicians note required)
+•	Staff with symptoms (respiratory illness, gastrointestinal, fever, cough, etc.) must stay home until they receive a negative Covid-19 test and no fever is present, or until 10 days have passed and symptoms have resolved. 
 
 •	Staff should stay home if they are feeling unwell. 
 
@@ -175,8 +155,6 @@ To reduce the possible spread of illness, we have decided that we will be provid
 
 •	Staff will also be required to increase handwashing and follow the guidelines set out by the BCCDC, Provincial Health Officer and Fraser Health.  
 
-
-
 These policies and procedures have been put in place for the health and well-being of all our children, families, and staff. We appreciate your cooperation and compliance during this time. 
 
-_\-Updated December 2020_
+_\-Updated February 2021_
