@@ -20,11 +20,11 @@ hero:
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Covid-19 Parent Policies & Procedures
-  - description: 'RB Kids will be closed Monday, February 15th for Family Day. '
-    image: /img/family-day-postcard-activity-scaled-e1581456027555.jpg
+  - description: 'The childcare will be closed Friday, April 2nd for Good Friday. '
+    image: /img/best-easter-quotes.jpg
     link: /latest-updates
-    subtitle: 'Family Day - Monday, February 15th'
-    title: 'Closure - Monday, Feb. 15th'
+    subtitle: Closed for Good Friday
+    title: 'Closed - Friday, April 2nd '
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
