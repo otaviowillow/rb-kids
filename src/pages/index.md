@@ -20,11 +20,13 @@ hero:
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Covid-19 Parent Policies & Procedures
-  - description: 'The childcare will be closed Friday, April 2nd for Good Friday. '
+  - description: |-
+      We will be closed Friday, April 15th for Good Friday. 
+      Happy Easter!
     image: /img/best-easter-quotes.jpg
-    link: /latest-updates
-    subtitle: Closed for Good Friday
-    title: 'Closed - Friday, April 2nd '
+    link: /latestupdates
+    subtitle: 'Closed Friday, April 15th '
+    title: Easter Closure
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
