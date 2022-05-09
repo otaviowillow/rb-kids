@@ -19,7 +19,7 @@ hero:
     image: /img/apple-touch-icon.png
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
-    title: Covid-19 Parent Policies & Procedures
+    title: Communicable Disease Parent Policies & Procedures
   - description: |-
       We will be closed Friday, April 15th for Good Friday. 
       Happy Easter!
