@@ -433,8 +433,7 @@ Please make sure to clearly label all your child’s belongings.
 
 #### Lunch
 
-Lunch is a very important part of your child’s day. We include the following in our menu each day. For parents bringing their child
-food we ask and encourage healthy, nutritious, easily manageable lunches for your child. Some foods choices to consider when
+Lunch is a very important part of your child’s day. We ask and encourage healthy, nutritious, easily manageable lunches for your child. Some foods choices to consider when
 preparing lunch for your child include.
 
 * Vegetables and fruit
@@ -444,15 +443,15 @@ preparing lunch for your child include.
 
 Unfortunately, due to health regulations we cannot heat up lunches so please put items that you wish to be warm in a thermos
 container. We strive to keep our program a low sugar; healthy environment so would prefer that you don’t send items
-such as cake, cookies, candy, soda pop, and fruit punch etc. Infants and Toddlers should bring formula or milk that is
-already prepared and in labeled bottles or cup.
+such as cake, cookies, candy, soda pop, and fruit punch etc. Infants and Toddlers should bring formula that is premeasured powder and water, or milk that is
+prepared and in labeled bottles or cup.
 
 **Please keep in mind the following food preparation suggestions while planning your child’s meals:**
 To avoid choking hazards please cut:
 
-* wieners/sausages length wise and chop into small bite size pieces.
+* wieners/sausages lengthwise and chop into small bite size pieces.
 * vegetables into small bite size pieces
-* grapes length wise
+* grapes lengthwise
   Infant/Toddlers:
 * Bottles will not be used 2 hours after heating due to health reasons
 * Vegetables need to be steamed/cooked not raw.
