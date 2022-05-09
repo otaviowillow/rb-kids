@@ -23,10 +23,10 @@ hero:
   - description: |-
       We will be closed Friday, April 15th for Good Friday. 
       Happy Easter!
-    image: /img/best-easter-quotes.jpg
+    image: /img/victoria-day.jpg
     link: /latestupdates
-    subtitle: 'Closed Friday, April 15th '
-    title: Easter Closure
+    subtitle: 'Closed Monday, May 23rd 2022'
+    title: Victoria Day Closure
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
