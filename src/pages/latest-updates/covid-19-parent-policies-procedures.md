@@ -1,7 +1,7 @@
 ---
 templateKey: latest-updates
 pinned: true
-title: Covid-19 - Parent Policies & Procedures
+title: Communicable Disease Prevention - Parent Policies & Procedures
 background: /img/apple-touch-icon.png
 date: 2022-03-31T07:00:00.000Z
 author: Brianna
