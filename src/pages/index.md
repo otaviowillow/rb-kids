@@ -20,7 +20,8 @@ hero:
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Communicable Disease Prevention - Parent Policies & Procedures
-  - description: 'We will be closed Monday, May 23rd for Victoria Day.'
+  - description: |
+      We will be closed Monday, May 23rd for Victoria Day.
     image: /img/victoria-day.jpg
     link: /latestupdates
     subtitle: 'Closed Monday, May 23rd 2022'
