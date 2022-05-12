@@ -6,8 +6,6 @@ background: /img/calendar.png
 date: 2022-03-31T21:19:18.718Z
 author: Brianna
 ---
-Friday, April  15th - Closed - Good Friday
-
 Monday, May 23rd - Closed – Victoria Day
 
 Wednesday  June 29th -Closed - Annual Maintenance
