@@ -23,7 +23,7 @@ hero:
   - description: |
       We will be closed Monday, May 23rd for Victoria Day.
     image: /img/victoria-day.jpg
-    link: /latestupdates
+    link: /latest-updates
     subtitle: 'Closed Monday, May 23rd 2022'
     title: Victoria Day Closure
 mission: >-
