@@ -21,11 +21,11 @@ hero:
     subtitle: Additional Parent Policies and Procedures
     title: Communicable Disease Prevention - Parent Policies & Procedures
   - description: |
-      We will be closed Monday, May 23rd for Victoria Day.
+      We will be closed Monday, May 23rd, 2022 for Victoria Day. 
     image: /img/victoria-day.jpg
     link: /latest-updates
-    subtitle: 'Closed Monday, May 23rd 2022'
-    title: Victoria Day Closure
+    subtitle: Closed for Victoria Day
+    title: 'Closed - Monday, May 23rd'
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
