@@ -6,16 +6,6 @@ background: /img/calendar.png
 date: 2022-03-31T21:19:18.718Z
 author: Brianna
 ---
-Monday, May 23rd - Closed – Victoria Day
-
-Wednesday  June 29th -Closed - Annual Maintenance
-
-Thursday June 30th -Closed - Annual Maintenance
-
-Friday, July 1st - Closed - Canada Day
-
-Monday, July 4th - Closed - Annual Maintenance
-
 Monday, August 1st - Closed – BC Day
 
 Friday, September 2nd - Closed - Professional Development Day
