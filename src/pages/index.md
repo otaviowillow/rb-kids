@@ -20,6 +20,11 @@ hero:
     link: /latest-updates
     subtitle: Additional Parent Policies and Procedures
     title: Communicable Disease Prevention - Parent Policies & Procedures
+  - description: 'The childcare will be closed for BC Day, Monday, August 1st. '
+    image: /img/bc-day.jpg
+    link: /latest-updates
+    subtitle: 'We will be closed Monday, August 1st for BC Day'
+    title: 'Closure - Monday, August 1st '
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
   child care facility. Our state of the art facility and care team offer a child
