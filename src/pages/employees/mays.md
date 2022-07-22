@@ -3,7 +3,7 @@ templateKey: employees
 name: Mays
 avatar: /img/783d07d6-1a19-418d-b9a6-c9ef8e00d54a.png
 backgroundPosition: bottom
-role: ECE-Infant Toddler
+role: ECE - Infant Toddler Program
 sort: 14
 ---
 I’m a computer engineer and mother of two; I have three years of experience working in Child Protection in various NGOs in Syria. When I came to Canada, I decided to support my practical experience with a degree that allowed me to work with children, so I became an Infant and Toddler Early Childhood Educator. 
