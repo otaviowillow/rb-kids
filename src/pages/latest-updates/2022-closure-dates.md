@@ -3,7 +3,7 @@ templateKey: latest-updates
 pinned: false
 title: 2022 Closure Dates
 background: /img/calendar.png
-date: 2022-03-31T21:19:18.718Z
+date: 2022-07-29T21:19:18.718Z
 author: Brianna
 ---
 Monday, August 1st - Closed – BC Day
