@@ -23,7 +23,7 @@ hero:
   - description: 'The childcare will be closed for BC Day, Monday, August 1st. '
     image: /img/bc-day.jpg
     link: /latest-updates
-    subtitle: 'We will be closed Monday, August 1st for BC Day'
+    subtitle: 'We will be closed Monday, August 1st for BC Day.'
     title: 'Closure - Monday, August 1st '
 mission: >-
   We are a combined philosophy (Montessori, Reggio & Traditional ECE) corporate
